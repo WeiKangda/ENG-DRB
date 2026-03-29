@@ -1,0 +1,123 @@
+You are an experienced, professional, rigorous computational linguist. You are now work as the annotator of the tutorial discourse PDTB sense dataset. Your task is extract the senses in the given spans from hands-on engineering tutorial discourses. Specifically, you only identify the implicit senses, where NO explicit connective is shown in the argument. When annotating arguments in PDTB-3 for a specific sense, the annotated spans for each argument should be the minimal span(s) sufficient to unambiguously convey that sense. This minimal span must preserve the original meaning within its discourse context. Please annotate the senses based on the given PDTB sense definition. In addition, please also indicate a confidence level (0-1) for each sense you detected in the final output based on 1) your familiarity with the topic, 2) the logic clarity of the candidate arguments, 3) possible similar senses that may cause confusion. The definition of senses, example input,  annotation steps, output format, example output, and the discourse section to be annotated is given below:
+
+**IMPORTANT: Provide ONLY the JSON output in the specified format. Do not include any explanatory text, reasoning, or additional content outside the JSON structure.**
+
+# Definition of senses:
+"
+## 1.1 PDTB3 Sense Classification
+Here we provide definitions of the PDTB-3 sense labels.
+
+### 1.1.1 Temporal Relations
+The tag temporal is used when the situations described in the arguments are intended to be related temporally.
+**Temporal.Synchronous** This tag is used when there is some degree of temporal overlap between the events described by the arguments. All forms of overlap are included.
+**Temporal.Asynchronous** This tag is used when one event is described as preceding the other.
+
+### 1.1.2 Contingency Relations
+The tag Contingency is used when the situation described by one argument provides the reason, explanation or justification for the situation described by the other.
+**Contingency.Cause** This tag is used when the situations described in Arg1 and Arg2 are causally influenced but are not in a conditional relation.
+**Contingency.Purpose** This tag is used when one argument presents an action that an AGENT undertakes with the purpose of the GOAL conveyed by the other argument being achieved. Usually (but not always), the agent undertaking the action is the same agent aiming to achieve the goal.
+**Contingency.Condition** This tag is used when one argument presents a situation as unrealized (the antecedent), which (when realized) would lead to the situation described by the other arg (the consequent). There are distinct senses for interpreting the arguments in terms of their semantics or the speech acts they convey. The default is their semantics.
+**Contingency.Negative-condition** This tag is used when one argument (the antecedent) describes a situation presented as unrealized, which if it doesn’t occur, would lead to the situation described by the other argument (the consequent). There are distinct senses for interpreting the arguments in terms of semantics or speech acts, with the default being semantics.
+
+### 1.1.3 Comparison Relations
+The tag Comparison is used when the discourse relation between two arguments highlights their differences or similarities, including differences between expected consequences and actual ones. The PDTB-3 sense hierarchy distinguishes three types of Comparison: Contrast, Similarity and Concession. Similarity, the opposite of Contrast, had not been included in the PDTB-2 sense hierarchy. Of the other two, Contrast is meant to be used when at least **two** differences between Arg1 and Arg2 are highlighted, while Concession is meant to be used when a causal relation expected on the basis of one argument is cancelled or denied by the situation described in the other. While these definitions appear quite different, in practice, annotators have had difficulty deciding which relation held between a pair of arguments. As such the following decision procedure was adopted when trying to decide between Contrast and Concession:
+1.   Are at least two explicit differences highlighted between the arguments?
+2.   If no, select Concession.
+3.   If yes, check whether a causal relation that is expected on the basis of one argument is denied by the other. (Test by paraphrasing with *although*.)
+4.   If yes, select Concession.
+5.   If no, select, Contrast.
+One consequence of this procedure is that, whenever Concession can be taken as holding, it is annotated as such, even if Contrast also holds by definition. As this same procedure was also applied to tokens previously labelled Contrast or Concession in the PDTB-2 (both Explicit and Implicit), the proportion of Contrast vs. Concession tokens has changed significantly: Among explicit tokens of Contrast and Concession in the PDTB-2, about 75% had been labeled Contrast and 25% Concession. In contrast, the PDTB-3 has 22% labelled Contrast and 78% tokens labelled Concession (either Arg1-as-denier or Arg2-as-denier). Among implicit tokens of Contrast and Concession in the PDTB-3, ∼40% are labelled Contrast and ∼60% are labelled Concession (either Arg1-as-denier or Arg2-as-denier).
+**Comparison.Concession** This tag is used when an expected causal relation is cancelled or denied by the situation described in one of the arguments.
+**Comparison.Contrast** As noted, Contrast is used when at least two differences between Arg1 and Arg2 are highlighted.
+**Comparison.Similarity** This tag is used when one or more similarities between Arg1 and Arg2 are highlighted with respect to what each argument predicates as a whole or to some entities it mentions.
+
+### 1.1.4 Expansion Relations
+The label Expansion is used for relations that expand the discourse and move its narrative or exposition forward.
+**Expansion.Exception** This tag is used when one argument evokes a set of circumstances in which the described situation holds, and the other argument indicates one or more instances where it doesn’t.
+**Expansion.Instantiation** This tag is used when one argument describes a situation as holding in a set of circumstances, while the other argument describes one or more of those circumstances.
+**Expansion.Level-of-Detail** This tag is used when both arguments describe the same situation, but in less or more detail.
+**Expansion.Substitution** This tag is used when arguments are presented as exclusive alternatives, with one being ruled out.
+"
+
+# Example inputs:
+" [
+    {
+      "span_no": 1.0,
+      "span_content": "All right, here we go."
+    },
+    {
+      "span_no": 2.0,
+      "span_content": "Today we're going to do a simple steam boiler maintenance."
+    },
+    {
+      "span_no": 3.0,
+      "span_content": "This is a real basic one;we're not going to get into any ignition or anything like that."
+    },
+    {
+      "span_no": 4.0,
+      "span_content": "This is just for the water side of the steam boiler."
+    },
+    {
+      "span_no": 5.0,
+      "span_content": "Now understand, just having rusty water inside of a steam boiler is not necessarily a problem."
+    }
+  ]
+"
+
+# Annotation Steps
+
+1. **Review Definitions**
+   - Familiarize with the PDTB-3 sense classification definitions provided. Pay special attention to temporal, contingency, comparison, and expansion relations.
+
+2. **Span Analysis**
+   - Start by reading the discourse spans sequentially. Identify connections related to implicit senses.
+   - Ensure each span selected is minimal yet sufficient for conveying the sense without ambiguity.
+
+3. **Logic Verification**
+   - Reassess logic and compatibility with PDTB-3 sense definition to ascertain understanding and agreement.
+   - Consider the clarity of the candidate arguments and potential for misinterpretation with similar senses.
+
+4. **Sense Annotation**
+   - Annotate the arguments by their span number and assign the PDTB-3 sense that describes their relationship.
+   - Assign a confidence level ranging from 0 to 1 to each annotated sense, considering factors such as topic familiarity and clarity.
+
+
+# Output format
+
+Each sense annotation should be in the following JSON format:
+'''
+{
+  "Senses": [
+    {
+      "Arg1_start": [start span number],
+      "Arg1_end": [end span number],
+      "Arg2_start": [start span number],
+      "Arg2_end": [end span number],
+      "sense": "[PDTB-3 sense label]",
+      "explicit": "implicit",
+      "confidence": [confidence level]
+    }
+    // additional sense annotations
+  ]
+}
+'''
+
+**CRITICAL: Output ONLY the JSON structure above. Do not include any text before or after the JSON. Do not provide explanations, reasoning, or step-by-step analysis. The response should be a clean JSON object that can be directly parsed.**
+
+# Example outputs (Please ensure that a confidence level, ranging from 0 to 1, is provided for each identified sense.):
+```
+{
+  "Senses": [
+    {
+      "Arg1_start": 2.0,
+      "Arg1_end": 2.0,
+      "Arg2_start": 3.0,
+      "Arg2_end": 4.0,
+      "sense": "Expansion.Level-of-Detail",
+      "explicit": "implicit",
+      "confidence": 0.8
+    }，
+    ...
+  ]
+}
+```
