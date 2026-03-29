@@ -11,13 +11,13 @@
 
 # Set environment variables
 export CUDA_VISIBLE_DEVICES=0
-export HF_HOME=/scratch/user/u.kw178339/huggingface_models
-export TRANSFORMERS_CACHE=/scratch/user/u.kw178339/huggingface_models
+export HF_HOME=${HF_HOME:-~/.cache/huggingface}
+export TRANSFORMERS_CACHE=${TRANSFORMERS_CACHE:-~/.cache/huggingface}
 
-conda init zsh
+# Activate your conda environment (adjust name as needed)
 conda activate disrpt
-cd /scratch/user/u.kw178339/disrpt2023
-module load WebProxy/0000
+# cd to the project root (adjust if your path differs)
+cd "$(dirname "$0")/.."
 
 # Create results directory
 mkdir -p data/result/eng.tutorial.annotation

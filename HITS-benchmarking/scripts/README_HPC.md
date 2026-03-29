@@ -14,24 +14,24 @@ This directory contains SLURM scripts for running DISRPT discourse parsing model
 
 1. **Data Setup**: Ensure your data is preprocessed and available at:
    ```
-   /scratch/user/u.kw178339/disrpt2023/data/dataset/eng.tutorial.annotation/
+   data/dataset/eng.tutorial.annotation/
    ├── eng.tutorial.annotation_train.json
    ├── eng.tutorial.annotation_dev.json
    └── eng.tutorial.annotation_test.json
    ```
 
-2. **Environment**: Conda environment `INL` with Python 3.8+
+2. **Environment**: Conda environment with Python 3.8+ and dependencies from `requirements.txt`
 
-3. **Upload Files**: Copy your DISRPT codebase to HPC:
+3. **Upload Files**: Copy the project to your HPC scratch space:
    ```bash
-   scp -r /Users/kangdawei/Desktop/Research/disrpt2023/ username@hpc-login:/scratch/user/u.kw178339/
+   scp -r HITS-benchmarking/ username@hpc-login:/scratch/user/<your-username>/
    ```
 
 ## Quick Start
 
 1. **Submit both tasks**:
    ```bash
-   cd /scratch/user/u.kw178339/disrpt2023
+   cd /path/to/HITS-benchmarking
    chmod +x scripts/submit_jobs.sh
    ./scripts/submit_jobs.sh
    ```

@@ -9,10 +9,10 @@
 #SBATCH --mem=128G
 #SBATCH --partition=cpu
 
-conda init zsh
-conda activate INL
-cd /scratch/user/u.kw178339/disrpt2023
-module load WebProxy/0000
+# Activate your conda environment (adjust name as needed)
+conda activate disrpt
+# cd to the project root (adjust if your path differs)
+cd "$(dirname "$0")/.."
 
 # Create results directory
 mkdir -p data/result/eng.tutorial.annotation
