@@ -1,6 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0935	1-27	28-46	onal Business Machines Corp. made news this summer when it landed an unusual contract to manage all of Eastman Kodak Co. 's data-processing needs. But the	ter giant appears to have lost a second key contract with Kodak to archrival Digital Equipment Corp. Kodak y	_	_	_	_	1>2	Comparison.Contrast.Opposition	Comparison.Contrast.Opposition
-wsj_0935	1-71	80-81	 entered negotiations with Maynard, Mass.-based Digital to manage all of its voice and data communications needs. Kodak, ba	d b	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0935	71-88	88-1	d in Rochester, N.Y., said IBM also had bid for the business. IBM is ba	d in Armonk, N.Y. The loss 	_	_	_	_	1>2	N.Y	N.Y
-wsj_0935	141-154	161-189	an declined to disclose the potential value of the contract, which is stil	erican Telephone & Telegraph, MCI Communications Corp., Rochester Telephone Corp. and IBM itself would likely be Digital's subcontractors on the project. "When we deci	_	_	_	_	1>2	Comparison.Contrast.Opposition	Comparison.Contrast.Opposition
-wsj_0935	206-216	191-205	the best vendor for that service," said Paul Alle	k outside the company for critical data-processing and communications services, we wanted to ge	_	_	_	_	1>2	Temporal.Synchrony	Temporal.Synchrony

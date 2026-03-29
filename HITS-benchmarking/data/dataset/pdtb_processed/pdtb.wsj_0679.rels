@@ -1,4 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0679	1-89	90-100	 company remains independent while workin	her to market and sell their products." Octel said	_	_	_	_	1>2	Temporal.Synchrony	Temporal.Synchrony
-wsj_0679	134-156	157-1	cquired 730,070 common shares from Octel as a result of an Aug. 10, 1988, stock purchase agreement. That accord als	called for 	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0679	131-176	177-1	filing, Hewlett-Packard acquired 730,070 common shares from Octel as a result of an Aug. 10, 1988, stock purchase agreement. That accord also called for Hewlett-Packard to buy 730,070 Octel shares in the open market within 18 months. In addition, He	cquired a two-year option to buy an extra 10%, of which half may be sold directly to Hewlett-Packard by Octel.	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

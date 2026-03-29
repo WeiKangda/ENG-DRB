@@ -1,4 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1742	1-50	51-1	 period under the Hart-Scott-Rodino antitrust act for the $3.4 billion bid for Columbia and the $2	llion offer for Guber-Peters expired Monday. Sony has 	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1742	1-89	102-1	 legal battle with Warner Communications Inc. over the services of producers Peter Guber and Jon Peters. In a fili	s have been filed opposing the company's agreement to buy Columbia. Sony added 	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1742	90-1	117-1	ith the Securities and Exchange Commission, Sony also said two more suits have been filed opposing the company's agreement to buy Columbia. Sony added 	at a hearing has been set for Thursday in the Delaware Chancery Court in one of the suits.	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

@@ -1,2 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1513	2-39	40-59	MANUFACTURING Co. declared a regular quarterly dividend of 10 cents a share and an extra dividend of five cents a share on its common stock, payable Dec. 15 to shares of record Nov. 17. This is	he 11th consecutive quarter in which the company has paid shareholders an extra dividend of five cents. The Has	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

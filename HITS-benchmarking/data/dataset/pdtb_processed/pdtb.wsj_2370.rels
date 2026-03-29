@@ -1,4 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_2370	1-1	66-74	 he added, 	s for continued moderate growth." Sound fami	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_2370	90-96	96-1	economy remains sound. There is noth	g wrong with the economy . . . all the 	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_2370	96-1	1-113	g wrong with the economy . . . all the 	 are up." Heard that b	_	_	_	_	1>2	Expansion.Restatement.Specification	Expansion.Restatement.Specification

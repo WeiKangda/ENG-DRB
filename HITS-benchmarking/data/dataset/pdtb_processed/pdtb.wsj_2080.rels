@@ -1,4 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_2080	36-44	45-1	ng $465 million were submitted, and accep	ds were at 8.292%. Citicorp 	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_2080	2-36	56-82	ge interest rate fell to 8.292% at Citicorp's $50 million weekly auction of 91-day commercial paper, or corporate IOUs, from 8.483% at last week's sale. Bids to	age rate fell to 7.986% at its $50 million auction of 182-day commercial paper from 8.1255% at last week's sale. Bids totali	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_2080	84-1	92-99	415 million were submitted, and accepted 	ere at 7.986%. The bank hold	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

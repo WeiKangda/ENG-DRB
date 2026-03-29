@@ -1,5 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_2270	34-1	62-1	un a production test on the three discovery wells it drilled in the field, which is 	re similar to others drilled at its Intan and Widuri fields. However, 	_	_	_	_	1>2	Contingency.Cause.Reason	Contingency.Cause.Reason
-wsj_2270	34-1	80-95	un a production test on the three discovery wells it drilled in the field, which is 	he reserves in the field are about 10 million barrels of oil. The Intan F	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast
-wsj_2270	76-95	95-118	s said it believes the reserves in the field are about 10 million barrels of oil. The Intan F	ld has estimated reserves of 50 million barrels and the Widuri Field has estimated reserves of 225 million barrels. Maxus, an i	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_2270	95-105	106-118	ld has estimated reserves of 50 million barrels and the Widu	eld has estimated reserves of 225 million barrels. Maxus, an i	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

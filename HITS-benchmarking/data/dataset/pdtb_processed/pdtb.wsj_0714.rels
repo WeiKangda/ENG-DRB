@@ -1,4 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0714	49-1	1-1	ased 11.9% to 279.39 billion yen from 249.68 billion yen. Net fell 	 to 3.23 billion yen from 3.26 billion yen. Pershare 	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0714	49-1	75-85	ased 11.9% to 279.39 billion yen from 249.68 billion yen. Net fell 1% to 3.23 billion yen from 3.26 billion yen. Pershare 	t fell to 4.97 yen from 5.40 yen. The growi	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0714	110-122	122-155	roduct sales were major contributors to overall sales growth. Sales by cate	ry rose 24% to 35.23 billion yen, reflecting increased production in automobile, airconditioner and electric machine industries, which are major users of wire and cable products. Sales for ele	_	_	_	_	1>2	Expansion.Restatement.Specification	Expansion.Restatement.Specification

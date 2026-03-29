@@ -1,3 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0545	75-88	89-107	son, chairman, will succeed him as chief executive. Roger L. Sutt	, executive vice president, was appointed as the new president and chief operating officer. Kerry P. Char	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0545	89-107	107-1	, executive vice president, was appointed as the new president and chief operating officer. Kerry P. Char	t will become executive vice president, and retain his positions as chief financial officer and treasurer.	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

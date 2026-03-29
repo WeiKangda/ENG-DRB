@@ -1,3 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0991	36-55	1-63	includes an extraordinary gain of about $100,000 from the reversal of bad debt and interest income. Revenue w	 about $4.5 million. In the 19	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0991	36-63	1-92	includes an extraordinary gain of about $100,000 from the reversal of bad debt and interest income. Revenue was about $4.5 million. In the 19	 third quarter, the company posted a net loss of $876,706, or 22 cents a share, on revenue of about $5.1 million. Total Ass	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast

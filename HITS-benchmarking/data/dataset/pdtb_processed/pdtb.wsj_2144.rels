@@ -1,9 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_2144	152-161	1-172	became the eye of a storm. In September 19	 California officials seized "bootlegged" lenses -- made by unlic	_	_	_	_	1>2	Contingency.Cause.Reason	Contingency.Cause.Reason
-wsj_2144	1-172	178-184	 California officials seized "bootlegged" lenses -- made by unlic	s of bacteria. In October doct	_	_	_	_	1>2	Temporal.Asynchronous.Succession	Temporal.Asynchronous.Succession
-wsj_2144	1-172	184-1	 California officials seized "bootlegged" lenses -- made by unlic	s were debating the product's safety, some claiming it caused infections. And there were 	_	_	_	_	1>2	Temporal.Asynchronous.Precedence	Temporal.Asynchronous.Precedence
-wsj_2144	184-1	1-212	s were debating the product's safety, some claiming it caused infections. And there were 	 hearings on the questions in July 1972. The product ove	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_2144	201-212	212-1	nate hearings on the questions in July 1972. The product ove	ame the bad publicity and kept evolving. The early soft 	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast
-wsj_2144	223-229	244-264	es, which cost $300 a	ear" versions, designed to be worn for 30 days at a time, wree offered. Eighteen months a	_	_	_	_	1>2	Temporal.Asynchronous.Precedence	Temporal.Asynchronous.Precedence
-wsj_2144	244-264	1-277	ear" versions, designed to be worn for 30 days at a time, wree offered. Eighteen months a	 a "disposable" seven-day model bowed; a year's supply c	_	_	_	_	1>2	Temporal.Asynchronous.Precedence	Temporal.Asynchronous.Precedence
-wsj_2144	1-1	348-358	 its new disposables, is coming on fast.	er among the six majors, Johnson & Johnson, wi	_	_	_	_	1>2	Comparison.Contrast.Juxtaposition	Comparison.Contrast.Juxtaposition

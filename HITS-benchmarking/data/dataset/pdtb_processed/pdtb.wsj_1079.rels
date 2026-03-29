@@ -1,7 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1079	3-5	32-32	, its ins	rec	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1079	223-241	243-272	e Group had a $53 million quarterly pretax loss from Hurricane Hugo, ITT said. Hartford ex	ort a further pretax loss of about $30 million for the current quarter, as a result of the California earthquake this month, ITT added. The compan	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1079	243-272	274-276	ort a further pretax loss of about $30 million for the current quarter, as a result of the California earthquake this month, ITT added. The compan	d its finan	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1079	278-1	302-309	had increased reserves for bankrupt accounts, resulting in a $40 million pretax charge for the third quarter. This charge was partly 	fset, however, by $19 million	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast
-wsj_1079	274-1	320-320	d its financial operations had increased reserves for bankrupt accounts, resulting in a $40 million pretax charge for the third quarter. This charge was partly 	fin	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1079	322-345	351-368	greed in September to settle a civil suit with the California attorney general over alleged improper lending and sales practices. Anticipating this settlem	ax charge of $24 million during the fourth quarter of 1988. An ITT spokesman said the	_	_	_	_	1>2	Contingency.Cause.Result	Contingency.Cause.Result

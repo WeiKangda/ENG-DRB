@@ -1,3 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1673	181-216	217-1	a lawyer here for the two Chicago Title & Trust units accused the FTC of "second-guessing" state-level regulations, with which, he said, his clients had complied. "I expect all	e companies to appeal," he added. A 	_	_	_	_	1>2	Contingency.Cause.Result	Contingency.Cause.Result
-wsj_1673	1-236	237-254	 nam	es no longer use the type of cooperative rating bureaus attacked by the FTC, the commission'	_	_	_	_	1>2	Contingency.Cause.Reason	Contingency.Cause.Reason

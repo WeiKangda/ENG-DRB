@@ -1,3 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0487	89-111	112-1	e agreements require that Anchor obtain a waiver from its bank lenders of existing covenant defaults under its bank facilities. Since Ancho	is still seeking this waiver, Vitro said 	_	_	_	_	1>2	Contingency.Cause.Result	Contingency.Cause.Result
-wsj_0487	122-1	113-1	fer is being extended until 5 p.m. EST tomorrow.	ll seeking this waiver, Vitro said 	_	_	_	_	1>2	Contingency.Cause.Reason	Contingency.Cause.Reason

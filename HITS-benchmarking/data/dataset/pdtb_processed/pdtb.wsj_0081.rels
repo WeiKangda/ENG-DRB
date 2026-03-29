@@ -1,4 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0081	74-112	113-137	rsity Patents filed a suit in federal court in Philadelphia against Albert M. Kligman, a researcher and professor at the University of Pennsylvania School of Medicine who developed Retin-A in the 1960s to combat acne. Dr. Kligman	atented the medicine while employed by the University, but later licensed the Retin-A to a division of Johnson & Johnson. In New Brun	_	_	_	_	1>2	Contingency.Cause.Reason	Contingency.Cause.Reason
-wsj_0081	113-117	119-124	atented the medicine while employ	he University, but later l	_	_	_	_	1>2	Temporal.Synchrony	Temporal.Synchrony
-wsj_0081	113-124	124-124	atented the medicine while employed by the University, but later l	ens	_	_	_	_	1>2	Temporal.Asynchronous.Precedence	Temporal.Asynchronous.Precedence

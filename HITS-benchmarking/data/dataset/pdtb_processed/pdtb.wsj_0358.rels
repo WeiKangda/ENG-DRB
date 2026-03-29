@@ -1,4 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0358	76-112	148-151	id it monitored Newmark & Lewis's advertised prices before and after the ad campaign, and found that the prices of at least 50 different items either increased or stayed the same. In late May	cy also disputed Ne	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0358	160-166	167-178	ew lower prices" when allgedly t	ven't been price reductions since June 1. Richard D. Lewi	_	_	_	_	1>2	Temporal.Synchrony	Temporal.Synchrony
-wsj_0358	200-212	216-239	misleading expression `reduced from original prices. '" Mr. Lewis said	price tags and advertised at its "lowest possible prices" for all its merchandise to reduce public confusion. Mr. Lewis said th	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast

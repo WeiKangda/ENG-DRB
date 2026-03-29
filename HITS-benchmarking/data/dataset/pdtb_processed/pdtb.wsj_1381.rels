@@ -1,6 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1381	40-1	63-63	nt, filed in 	rg	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1381	132-145	151-181	suit is similar to a class-action complaint filed earlier this year. Imperial said	r complaints to be filed in the wake of the original suit and a recent article in Barron's magazine that focused on the company's problems. Although an I	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1381	205-215	187-198	orously defend itself against the class-action suit. Spokesmen at Dr	t yet been served with the derivative suit, he reiterated t	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast
-wsj_1381	181-215	215-234	ial spokesman said the company hadn't yet been served with the derivative suit, he reiterated the company's statement that it would vigorously defend itself against the class-action suit. Spokesmen at Dr	el and First Executive said the companies hadn't yet been served with the suit. In a separate c	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1381	44-49	234-238	deral district court, accuses I	aint also filed in fede	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

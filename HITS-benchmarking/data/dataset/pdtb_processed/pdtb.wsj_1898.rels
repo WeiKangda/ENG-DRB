@@ -1,4 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1898	53-62	63-86	hurt margins for most products. "We did see	me relief in raw material costs, but it wasn't sufficient to offset the drop in sales prices," James R. K	_	_	_	_	1>2	Contingency.Cause.Reason	Contingency.Cause.Reason
-wsj_1898	63-73	74-86	me relief in raw material costs, but it wasn	ficient to offset the drop in sales prices," James R. K	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast
-wsj_1898	122-1	130-1	company's share buy-back program. Georgia Gulf 	d 24.9 million shares outstanding on average in the quarter, compared with 28.6 million in the third quarter of 1988, adjusted for 	_	_	_	_	1>2	Expansion.Restatement.Specification	Expansion.Restatement.Specification

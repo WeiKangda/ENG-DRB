@@ -1,2 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1132	2-28	29-1	. Todt was named vice president and senior officer in charge of equipment leasing to municipalities, a new effort of this bond insurer. Mr. Tod	had been vice president and treasurer of Insilco Corp.	_	_	_	_	1>2	Temporal.Asynchronous.Succession	Temporal.Asynchronous.Succession

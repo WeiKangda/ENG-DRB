@@ -1,4 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1738	31-1	52-70	ts Attorney General James Shannon, opposing the license, said he will appeal the ruling in federal court. Seabrook 	ficials said the plant could receive a full-power license by the end of the year. The NRC r	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1738	133-133	135-153	abro	e allowed to charge rates sufficient to run the plant and make payments on past construction costs, consideration	_	_	_	_	1>2	Contingency.Cause.Reason	Contingency.Cause.Reason
-wsj_1738	218-221	222-1	ate while protected fr	itors' lawsuits.	_	_	_	_	1>2	Temporal.Synchrony	Temporal.Synchrony

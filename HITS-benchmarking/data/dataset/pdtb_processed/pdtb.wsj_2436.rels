@@ -1,6 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_2436	1-47	49-55	 because of difficulties with commuting between his home in New York and the magazine's editorial offices in Washington. "Frankly,	missed my family," said Mr.	_	_	_	_	1>2	Expansion.Restatement	Expansion.Restatement
-wsj_2436	60-1	78-114	latt's tenure, the magazine's advertising pages and circulation have grown significantly. But at 2.3 	n weekly paid circulation, U.S. News still ranks third behind Time Warner Inc. 's Time magazine, with 4.4 million circulation, and Washington Post Co. 's Newsweek, with 3.3 million circulation. Mortimer B.	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast
-wsj_2436	207-215	217-219	ob offers from other magazines while he was edi	e offers were	_	_	_	_	1>2	Temporal.Synchrony	Temporal.Synchrony
-wsj_2436	207-219	220-233	ob offers from other magazines while he was editor. The offers were	o work as a writer, not an editor. He said he will	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast
-wsj_2436	220-233	235-1	o work as a writer, not an editor. He said he will	der those offers.	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast

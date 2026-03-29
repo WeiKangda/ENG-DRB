@@ -1,5 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1748	2-18	19-25	orp. said it signed a definitive agreement with Aruba to restart a 150,000-barrel-a-day oil refinery. Coastal	ouldn't disclose the terms. Coastal	_	_	_	_	1>2	Comparison.Contrast.Juxtaposition	Comparison.Contrast.Juxtaposition
-wsj_1748	37-45	49-66	to begin operations in October 1990. The compa	all additional processing units at the refinery to produce higher octane gasolines and other products. The compa	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1748	70-80	81-86	g the site of the refinery from Aruba. Exxon Corp.	uilt the plant but closed i	_	_	_	_	1>2	Temporal.Asynchronous.Succession	Temporal.Asynchronous.Succession
-wsj_1748	126-135	135-1	y how much that would be. The prime min	ter of Aruba has said it could cost around $100 million. Coastal said 	_	_	_	_	1>2	Comparison.Contrast.Juxtaposition	Comparison.Contrast.Juxtaposition

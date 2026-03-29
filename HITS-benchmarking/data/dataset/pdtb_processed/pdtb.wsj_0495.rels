@@ -1,2 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0495	63-75	79-99	ant may encompass plans for a joint components venture with Jaguar. Alternative	gine plant may be built as part of GM's planned tie-up with the British luxury car maker, the sources	_	_	_	_	1>2	Expansion.Alternative.Disjunctive	Expansion.Alternative.Disjunctive

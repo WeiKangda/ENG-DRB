@@ -1,7 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0173	42-73	77-85	lan, unsecured creditors, who are owed about $430 million, would receive about $92 million, or 21 cents for each dollar they are owed. In additi	eceive stock in the reorganized company, which wil	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0173	112-124	125-132	n., company's stock hit a high in 1983 after it unv	ts Adam home computer, but the pro	_	_	_	_	1>2	Temporal.Asynchronous.Succession	Temporal.Asynchronous.Succession
-wsj_0173	132-139	1-1	ct was plagued with glitches and the comp	 fortunes plunged. But Coleco 	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0173	139-1	146-1	ny's fortunes plunged. But Coleco 	d back with the introduction of the Cabbage Patch dolls, whose sales hit $600 million in 1985. But as the 	_	_	_	_	1>2	Comparison.Contrast.Juxtaposition	Comparison.Contrast.Juxtaposition
-wsj_0173	146-158	170-191	unced back with the introduction of the Cabbage Patch dolls, whose sales	died, Coleco failed to come up with another winner and filed for bankruptcy-law protection in July 1988. The plan wa	_	_	_	_	1>2	Comparison.Contrast.Juxtaposition	Comparison.Contrast.Juxtaposition
-wsj_0173	169-169	170-173	aze	d, Coleco fail	_	_	_	_	1>2	Temporal.Synchrony	Temporal.Synchrony

@@ -1,7 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1585	43-72	72-89	ollar earned over $8,880, Social Security recipients lose 50 cents of their Social Security benefits; it's like a 50% marginal tax. But the c	ded effects of "seniors only" taxes result in truly catastrophic marginal tax rates. Imagine a	_	_	_	_	1>2	Comparison.Contrast.Juxtaposition	Comparison.Contrast.Juxtaposition
-wsj_1585	105-107	109-115	e she h	y the catastrophic surtax. Although th	_	_	_	_	1>2	Temporal.Asynchronous.Precedence	Temporal.Asynchronous.Precedence
-wsj_1585	133-149	117-133	e to earn an additional $4,930 to offset her catastrophic surtax of $496. Eliminating	rns only twice the minimum wage, largely due to the earnings limit, she would h	_	_	_	_	1>2	Comparison.Concession.Expectation	Comparison.Concession.Expectation
-wsj_1585	160-1	164-184	deficit. Repeal would 	nerate more in new taxes than the government would lose in increased Social Security benefit payments. We now need s	_	_	_	_	1>2	Contingency.Cause.Reason	Contingency.Cause.Reason
-wsj_1585	1-242	206-219	 who will be held fully accountable if an earnings test amendment is not allowed from the floor. The time is now t	s on the committee are co-sponsors of my bill, it is the Democra	_	_	_	_	1>2	Contingency.Cause.Reason	Contingency.Cause.Reason
-wsj_1585	1-229	230-242	 who will be held fully accountable if an earnings tes	endment is not allowed from the floor. The time is now t	_	_	_	_	1>2	Contingency.Condition.Hypothetical	Contingency.Condition.Hypothetical

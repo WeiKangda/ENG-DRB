@@ -1,3 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0744	31-52	1-66	ent charged that Pymm operated a machine to crush broken thermometers and recover the mercury in an illegal workroom. The charg	 said that one worker suffered permanent brain damage from mercury exposure. The judge	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0744	1-205	206-1	 five to 15 years in prison and fines of $5,000 or double the profit made by failing to comply with the rules. The company could	e fined a maximum of $10,000, or double the profit.	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

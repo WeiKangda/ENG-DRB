@@ -1,3 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1886	12-27	1-85	to suspend operations for an indefinite period at its Tartan gold mine in Manitoba. Granges	 i	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1886	136-152	152-1	say what impact the moves would have on total gold output or earnings, and company o	ls weren't available.	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

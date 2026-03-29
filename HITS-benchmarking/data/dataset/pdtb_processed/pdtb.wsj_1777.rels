@@ -1,2 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1777	2-43	54-58	rd Butler, 60-year-old chairman of Agricola (U.K.) Ltd., was named chairman of County NatWest Investment Management Ltd., the investment management subsidiary of County NatWest Ltd., the investment banking arm of this British bank. Sir Ric	rd is also a n	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

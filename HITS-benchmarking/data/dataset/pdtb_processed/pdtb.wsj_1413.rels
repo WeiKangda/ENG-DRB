@@ -1,4 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1413	88-1	77-1	uld need only permission from the White House Office of Management and Budget to move the money, according to Senate budget analysts. That would 	s approved by both the House and Senate, Mr. Cheney 	_	_	_	_	1>2	Contingency.Condition.Hypothetical	Contingency.Condition.Hypothetical
-wsj_1413	232-278	278-293	irector Richard Darman structured the $16.1 billion spending reduction, half of which must come from defense, to "impose a little bit more discipline" by applying cuts to each individual program, project or activity in the budget. That would give a	ncies "less ability . . . to fudge over things," he told reporter	_	_	_	_	1>2	Contingency.Cause.Result	Contingency.Cause.Result
-wsj_1413	1-331	331-1	 funds once a pending defic	ting measure has been signed into law.	_	_	_	_	1>2	Temporal.Asynchronous.Succession	Temporal.Asynchronous.Succession

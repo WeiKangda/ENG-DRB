@@ -1,7 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_2449	34-61	61-61	eneral Kenneth Starr argued that the 1973 Supreme Court decision, Roe vs. Wade, recognizing a constitutional right to abortion, was incorrect. He also a	ue	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_2449	108-114	115-119	ourt will hear argued and will dec	his term. The adminis	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_2449	134-142	144-148	ents of a minor be notified before she m	an abortion. The adminis	_	_	_	_	1>2	Temporal.Asynchronous.Precedence	Temporal.Asynchronous.Precedence
-wsj_2449	148-1	177-180	ion urged the justices to adopt a legal standard suggested by Chief Justice William Rehnquist last July when the high 	dard, which garnere	_	_	_	_	1>2	Expansion.Restatement.Specification	Expansion.Restatement.Specification
-wsj_2449	177-180	1-214	dard, which garnere	 "reasonable" justification for adopting it. That is a muc	_	_	_	_	1>2	Contingency.Condition.Hypothetical	Contingency.Condition.Hypothetical
-wsj_2449	260-1	275-297	at both parents be notified is a reasonable regulation, and that there 	need to have an alternative that allows minors to go to court for a judge's permission instead. The case, Hodgs	_	_	_	_	1>2	Contingency.Cause.Result	Contingency.Cause.Result

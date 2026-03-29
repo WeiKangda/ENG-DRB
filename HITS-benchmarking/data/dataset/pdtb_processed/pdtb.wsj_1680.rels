@@ -1,5 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1680	12-24	28-29	g strong gains in its tobacco and distilled spirits businesses. The com	has b	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1680	129-143	144-1	t for world-wide tobacco products rose 10% to $247.6 million. For distilled	pirits, operating profit rose 36%, to $24.8 million. In the first 	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1680	1-195	196-214	 months, net rose 1.5%, to $458.8 million, or $4.76 a share, from $452 million, or $4.50 a share, a year earlier. The year-earlie	period included $40.1 million, or 41 cents a share, from discontinued operations. Revenue rose to	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast
-wsj_1680	196-214	216-225	period included $40.1 million, or 41 cents a share, from discontinued operations. Revenue rose to	9.03 billion from $8.98 billion. The average num	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

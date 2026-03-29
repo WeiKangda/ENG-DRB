@@ -1,4 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1739	1-54	54-66	 company reported third-period earnings for both companies. For the f	rth quarter, Bristol-Myers Squibb will report one set of earnings. Bristol-M	_	_	_	_	1>2	Comparison.Contrast.Opposition	Comparison.Contrast.Opposition
-wsj_1739	1-100	101-113	 said net income rose 15% to $266.2 million, or 93 cents a share, from $232.3 million, or 81 cents a share, a year earlier. Sales gaine	5% to $1.59 billion from $1.52 billion. Squibb Corp	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1739	114-144	144-158	id net rose 17% to $144.5 million, or $1.47 a share, from $123 million, or $1.25 a share. Sales were $7	.1 million, up 7% from $679.5 million. In New York S	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

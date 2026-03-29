@@ -1,3 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0248	1-24	24-1	 2 page-one article on people riding so-called "railbikes" on railroad tracks was a disservice to your readers. It unfo	unately encourages others to engage in a highly dangerous and illegal activity that only a very few are doing now. And it 	_	_	_	_	1>2	Contingency.Cause.Reason	Contingency.Cause.Reason
-wsj_0248	24-1	1-68	unately encourages others to engage in a highly dangerous and illegal activity that only a very few are doing now. And it 	 such activities in a frivolous, cavalier fashion, with total indifference to common sense and public safety. Saul Re	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

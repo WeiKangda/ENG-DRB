@@ -1,4 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_2252	53-57	64-68	ast Friday, along wit	ast week. Those two	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_2252	44-68	69-83	iss oil concern was examining the offer, submitted last Friday, along with two other offers, also submitted last week. Those two	ffers were private and the spokesman refused to identify the bidding companies. The spoke	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast
-wsj_2252	69-74	74-83	ffers were private and the sp	an refused to identify the bidding companies. The spoke	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

@@ -1,5 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0498	56-84	85-96	oss of $25.4 million for the fiscal year ended July 7, compared with year-earlier profit of $543,000, or two cents a share. Revenue for	he year fell 13% to $122.7 million. The 200-per	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0498	6-28	135-149	for protection under Chapter 11 of the federal Bankruptcy Code and announced a 35% reduction in its world-wide employment. The fil	one of its major new products, a 760-megabyte drive, which, while te	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0498	149-149	150-155	nical	cient, didn't hold muc	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast
-wsj_0498	149-149	163-1	nical	s caused a nine-month delay in getting the product to market.	_	_	_	_	1>2	Contingency.Cause.Reason	Contingency.Cause.Reason

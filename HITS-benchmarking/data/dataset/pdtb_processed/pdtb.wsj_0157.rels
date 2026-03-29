@@ -1,3 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0157	152-1	166-174	or Tony Lama gave a reason for the changed offer and Tony Lama 	n't be reached for comment. However, Tony	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0157	152-174	177-1	or Tony Lama gave a reason for the changed offer and Tony Lama couldn't be reached for comment. However, Tony	it would promptly submit the offer to a special committee of the company's board.	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast

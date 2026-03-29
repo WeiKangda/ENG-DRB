@@ -1,4 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0621	36-1	67-86	an agreement in principle with International Business Machines Corp. on a systems operations contract calling for IBM to operate First Tennessee's computer and telecommunications functions. Further, 	eement, First Tennesse would continue to develop the software that creates customer products and sevices. "Because pe	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0621	148-158	168-185	0 employees will be affected by the agreement. First Tennessee	o place the employees within the company, IBM or other companies in Memphis. The process wil	_	_	_	_	1>2	Contingency.Cause.Result	Contingency.Cause.Result
-wsj_0621	168-185	186-197	o place the employees within the company, IBM or other companies in Memphis. The process wil	take as many as six months to complete, the company sai	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

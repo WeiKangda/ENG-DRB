@@ -1,3 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1084	1-1	78-107	 didn't estimate annual price growth in September, but a 0.2% 	y the consumer price index would put growth at either 178.8 or 178.9, up 3.3% or 3.4% from the year-earlier level of 173.1. The index w	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast
-wsj_1084	77-107	1-113	se by the consumer price index would put growth at either 178.8 or 178.9, up 3.3% or 3.4% from the year-earlier level of 173.1. The index w	 178.5 in August and is based	_	_	_	_	1>2	Comparison.Contrast.Juxtaposition	Comparison.Contrast.Juxtaposition

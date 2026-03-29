@@ -1,4 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1050	1-55	58-79	"vague and ill-defined" because i	escribe the source of funds or the specific terms of StatesWest securities which were part of the offer. The new l	_	_	_	_	1>2	Contingency.Cause.Reason	Contingency.Cause.Reason
-wsj_1050	87-121	122-122	n addition to $7 a share in cash, StatesWest would offer one share of new 6% convertible preferred stock of StatesWest it values at $3 a share. It also sai	th	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1050	176-1	185-1	Mesa to repond by Oct. 31. Mesa President 	rry Risley said his board had received Stateswest's most recent offer and was reviewing it.	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

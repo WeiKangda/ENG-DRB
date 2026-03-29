@@ -1,7 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1613	33-57	58-70	ds tracked by the Investment Company Institute, a Washington-based trade group, rose to $356.1 billion, a record. The $6.07	illion increase was the strongest weekly inflow since January 1988. The incre	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1613	83-85	128-1	vestors, represented	vestors, on the other 	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast
-wsj_1613	161-186	186-202	unds dropped in the week ended Tuesday, according to Donoghue's Money Fund Report, a Holliston, Mass., newsletter. The average sev	-day compounded yield fell to 8.55% from 8.60% the week earlier, Donoghue's said	_	_	_	_	1>2	Expansion.Restatement.Specification	Expansion.Restatement.Specification
-wsj_1613	208-228	230-244	ix-month U.S. Treasury bills on Monday, the average yield fell to 7.61% from 7.82%. Likewise, certifi	osit on average posted lower yields in the week ended Tuesday. The 142 instituti	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1613	244-258	258-271	-type money funds rose $2.23 billion to $85.49 billion. The 235 general-pur	se funds increased $2.53 billion to $116.56 billion, while 96 broker-dea	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1613	258-271	272-1	se funds increased $2.53 billion to $116.56 billion, while 96 broker-dea	s increased $1.3 billion to $154.05 billion.	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

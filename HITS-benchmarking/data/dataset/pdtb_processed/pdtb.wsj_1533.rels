@@ -1,2 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1533	81-107	1-1	lion of the proceeds were used to prepay the remaining amounts on the note outstanding to National Intergroup Inc., the parent of National Steel. Remaini	 proceeds were used to pay other debt and to finance the company's capital spending program.	_	_	_	_	1>2	Comparison.Contrast.Juxtaposition	Comparison.Contrast.Juxtaposition

@@ -1,5 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1195	315-323	308-314	he accounts, Mr. Bond maintained. Amon	en down, others are undervalued in	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast
-wsj_1195	328-354	357-378	's Australian brewing assets, in the books at A$950 million but actually worth A$2.5 billion, he said. An investment in	lephone company is carried at US$300 million but really worth US$500 million, and the company's propert	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1195	357-378	379-398	lephone company is carried at US$300 million but really worth US$500 million, and the company's propert	folio is undervalued by at least A$250 million, Mr. Bond said. Mr. Bond f	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1195	1-474	474-1	 oil interests might be for sale in total or in part. Some of the oil interests alr	dy have been sold.	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

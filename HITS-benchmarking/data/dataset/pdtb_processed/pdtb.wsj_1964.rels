@@ -1,2 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1964	2-22	23-1	OLUME in Standard & Poor's 500 stock-index futures contracts on the Chicago Mercantile Exchange Monday totaled 73,803 contracts. Yesterd	's edition incorrectly reported Monday's trading volume as a record for the S&P 500 contract. (See: "	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast

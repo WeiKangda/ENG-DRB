@@ -1,2 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0805	2-30	59-1	Y Corp. said management would recommend to its board today that its common stock dividend be reinstated at a "modest level" later this year. The Dea	ted third-quarter net of $68.2 million, or 83 cents a share, up from $66.8 million, or 81 cents a share, a year ago.	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

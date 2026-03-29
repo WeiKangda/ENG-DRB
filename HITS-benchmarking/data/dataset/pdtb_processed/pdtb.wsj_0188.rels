@@ -1,4 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0188	14-41	73-83	to sell most of its psychiatric and drug abuse facilities in California and some other assets to pay its debt and provide working capital. In all,	as replaced its president and chief executive, naming W. J	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0188	111-120	121-132	uing deterioration of the company's operations while it att	to conclude the reorganization during the past four months." Concurrent	_	_	_	_	1>2	Temporal.Synchrony	Temporal.Synchrony
-wsj_0188	190-197	197-197	tered almost from the beginning and finally coll	pse	_	_	_	_	1>2	Temporal.Asynchronous.Precedence	Temporal.Asynchronous.Precedence

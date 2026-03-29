@@ -1,4 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0019	1-1	68-68	 Hatch, 59, was named executive vice president of the company. He was 	evious	_	_	_	_	1>2	Temporal.Asynchronous.Succession	Temporal.Asynchronous.Succession
-wsj_0019	81-97	100-1	arney, 45, was named to succeed Mr. Hatch as president of Eastern Edison. Previou	ce president of Eastern Edison. Robert 	_	_	_	_	1>2	Temporal.Asynchronous.Succession	Temporal.Asynchronous.Succession
-wsj_0019	1-1	123-123	 Tassinari, 63, was named senior vice president of Eastern Utilities. He was 	evious	_	_	_	_	1>2	Temporal.Asynchronous.Succession	Temporal.Asynchronous.Succession

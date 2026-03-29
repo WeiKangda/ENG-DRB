@@ -1,9 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1291	2-6	118-119	thes Inc., which i	id it	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1291	1-139	143-184	 commitment for as much as $8 million in financing from Norfolk Capital Group Inc. In addition	iliate, York Capital Inc., will purchase all of the interests of Eagle's secured lenders, which total $11.5 million, and guarantee as much as $8.2 million in payments to Eagle's unsecured creditors. A committee	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1291	204-222	222-1	extend the period under which Eagle has the exclusive right to file a reorganization plan. It would exti	uish all of Eagle's existing capital stock and issue new stock to York as sole holder. A bankruptcy 	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1291	271-292	294-314	in 1987 and early 1988 when its then-senior lender, Bankers Trust Co., reduced its credit line. In September 1988	Eagle acquired Biny Clothing Inc., a closely held New York chain operated under the Bonds name. Eagle's managemen	_	_	_	_	1>2	Temporal.Asynchronous.Precedence	Temporal.Asynchronous.Precedence
-wsj_1291	294-314	315-330	Eagle acquired Biny Clothing Inc., a closely held New York chain operated under the Bonds name. Eagle's managemen	retired and Biny's management took control of the company. At the time, Eagl	_	_	_	_	1>2	Temporal.Asynchronous.Precedence	Temporal.Asynchronous.Precedence
-wsj_1291	315-319	320-330	retired and Biny's managem	ook control of the company. At the time, Eagl	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1291	377-381	1-391	ufficient and sales during the	 fiscal year sagged. Under Chapter 11, a	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1291	392-405	407-1	pany operates under protection from creditors' lawsuits while it works out a p	pay debts.	_	_	_	_	1>2	Temporal.Synchrony	Temporal.Synchrony

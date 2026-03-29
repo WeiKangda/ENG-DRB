@@ -1,7 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_2280	60-1	36-49	idering the sale of Cluett, a leading shirt maker and one of West Point-Pepperell's biggest units. Included 	the $1.56 billion acquisition of West Point-Pepperell Inc. in April, Mr. Farle	_	_	_	_	1>2	Temporal.Asynchronous.Succession	Temporal.Asynchronous.Succession
-wsj_2280	147-183	183-193	he sale of three of Cluett's four main divisions plus other "anticipated" West Point-Pepperell asset sales by December, should bring in a total of about $700 million. He didn't elabo	te on other asset sales being considered. Mr. Farley foll	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast
-wsj_2280	1-200	200-214	 a similar pattern when he acquired N	st Industries Inc. and then sold much of its assets. But he kept Fruit	_	_	_	_	1>2	Temporal.Synchrony	Temporal.Synchrony
-wsj_2280	200-206	207-1	rthwest Industries Inc. and then sold muc	of 	_	_	_	_	1>2	Temporal.Asynchronous.Precedence	Temporal.Asynchronous.Precedence
-wsj_2280	207-214	216-230	of its assets. But he kept Fruit	e Loom Inc., the underwear maker that he still controls and serves as chai	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast
-wsj_2280	238-242	243-1	dent company until West Point-Pep	acquired it for $375 million in cash and stock in 1986. In the fiscal year 	_	_	_	_	1>2	Temporal.Asynchronous.Precedence	Temporal.Asynchronous.Precedence

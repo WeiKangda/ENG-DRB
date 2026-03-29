@@ -1,4 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1911	2-30	31-31	. said that as part of a program to improve profitability it will take a total of $189 million in after-tax charges by year end. It also	nn	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1911	58-60	81-98	, though pa	the company had net income of $117.3 million, or $1.30 a share. Arkla sai	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast
-wsj_1911	101-1	129-1	t $179 milllion in one-time charges against continuing operations for the third quarter, reflecting 	a $10 million fourth-quarter charge against discontinued operations, reflecting 	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

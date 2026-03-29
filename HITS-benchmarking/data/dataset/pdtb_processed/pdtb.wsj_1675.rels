@@ -1,6 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1675	37-66	1-79	al-estate package, with an asking price of $428 million, is comprised of 150 properties in Texas, California, Colorado, Arizona and Florida. It includ	 apartments, shopping centers, office buildings and undeveloped land. Mr. Seidm	_	_	_	_	1>2	Expansion.Restatement.Specification	Expansion.Restatement.Specification
-wsj_1675	105-1	130-130	ted by 	olds	_	_	_	_	1>2	Contingency.Cause.Reason	Contingency.Cause.Reason
-wsj_1675	137-140	141-147	sed before the b	egislation was enacted, is being li	_	_	_	_	1>2	Temporal.Asynchronous.Precedence	Temporal.Asynchronous.Precedence
-wsj_1675	151-162	1-1	held by FADA won't be sold piecemeal, Mr. Seidman s	 the entire lot," Mr. Seidman 	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast
-wsj_1675	1-1	194-1	 the entire lot," Mr. Seidman 	eckbooks."	_	_	_	_	1>2	Contingency.Cause.Result	Contingency.Cause.Result

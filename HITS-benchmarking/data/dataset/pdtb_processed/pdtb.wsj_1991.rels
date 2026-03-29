@@ -1,3 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1991	2-24	24-32	botics Inc. said its board extended until Feb. 1 the exercise period of Apogee's existing stock purchase warrants outstanding. The exp	ation date had been Nov. 3. Each of	_	_	_	_	1>2	Temporal.Asynchronous.Succession	Temporal.Asynchronous.Succession
-wsj_1991	1-52	53-1	 1,075,000 warrants entitle the holders to purchase one share of Apogee common stock for $2.25. Apogee wa	quoted in the over-the-counter market yesterday at $2 bid.	_	_	_	_	1>2	Comparison.Contrast.Juxtaposition	Comparison.Contrast.Juxtaposition

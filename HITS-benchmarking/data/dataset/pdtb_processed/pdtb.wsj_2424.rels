@@ -1,3 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_2424	38-70	71-80	verly Hills, Calif., collection of companies that is controlled by Hollywood producer Burt Sugarman, didn't give a reason for halting its plan to acquire the airline, and Aspen	ials couldn't be reached for comment. Giant agr	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_2424	91-98	101-121	ever disclosed the proposed price, although Av	an Arlington, Va.-based aircraft consulting concern, has valued Aspen's fleet at about $46 million. The airline	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast

@@ -1,2 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1925	2-39	52-1	. Mitchell, a vice president with Homart Development Co., the real estate development subsidiary of Sears, Roebuck & Co., was named president of Figgie Properties, a real estate development unit. He succ	. Barkley, a former marketing executive with FMC Corp., was appointed president of Continental Container Systems, a producer of can closing machinery that Figgie acquired late last year. Figgie 	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

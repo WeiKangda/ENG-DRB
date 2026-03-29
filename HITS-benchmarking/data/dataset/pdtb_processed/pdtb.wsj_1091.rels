@@ -1,4 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1091	1-102	103-113	 program allows users to design applications for Macintosh computers without having to be hardcore programmers and is distributed with every Macintosh sold. It's one of	he most popular computer programs of all time, but analyst	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1091	187-195	1-1	e case has no merit, and that HyperCar	 not infringe "any valid claims" of the Quickview patents. It said it filed 	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1091	187-1	215-1	e case has no merit, and that HyperCard does not infringe "any valid claims" of the Quickview patents. It said it filed 	of its own in federal court in San Jose, Calif., seeking a declaration that Quickview's claims are invalid.	_	_	_	_	1>2	Contingency.Cause.Result	Contingency.Cause.Result

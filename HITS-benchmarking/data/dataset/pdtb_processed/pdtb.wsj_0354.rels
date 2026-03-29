@@ -1,8 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0354	184-192	192-1	as magnified by accounting adjustments and that the c	y's loss was smaller on a cash basis. Uniroyal has 	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0354	223-228	267-284	lopment, Avery said it c	d basis, the two raised their stake to 68% from 51%. In December 198	_	_	_	_	1>2	Expansion.Restatement.Specification	Expansion.Restatement.Specification
-wsj_0354	332-358	367-1	two men acquired the non-packaging assets of Triangle, including a controlling stake in Avery and, by extension, Uniroyal Chemical. In the August proxy	niroyal, its ability to service debt would be hurt and Avery's shareholder value would "continue to erode." Until Avery makes 	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast
-wsj_0354	367-367	1-372	niro	 ability to serv	_	_	_	_	1>2	Expansion.Alternative.Disjunctive	Expansion.Alternative.Disjunctive
-wsj_0354	367-367	381-1	niro	alue would "continue to erode." Until Avery makes 	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0354	359-1	393-415	aterial, Avery said that unless it sold Uniroyal, its ability to service debt would be hurt and Avery's shareholder value would "continue to erode." Until Avery makes 	acquisition, Messrs. Peltz and May will waive their direct salaries and bonuses, the company said. For at least the ne	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0354	1-411	393-398	 will waive their direct salaries and bonuses, the company said. F	ition, Messrs. Peltz and M	_	_	_	_	1>2	Temporal.Asynchronous.Precedence	Temporal.Asynchronous.Precedence

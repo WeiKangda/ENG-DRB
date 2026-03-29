@@ -1,2 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1214	42-53	58-77	was made because of the bank-holding company's increased profitability, officia	ird quarter, BSB earned $2 million, up from $1.8 million a year earlier. In nati	_	_	_	_	1>2	Expansion.Restatement.Specification	Expansion.Restatement.Specification

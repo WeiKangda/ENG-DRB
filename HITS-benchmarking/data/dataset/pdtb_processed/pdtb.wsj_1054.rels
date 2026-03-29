@@ -1,4 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1054	1-54	55-71	 at the resort hotel, and as he departed he	ed a sign saying, "Have You Left Anything?" The man went back an	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1054	55-55	56-58	oti	a sign sayi	_	_	_	_	1>2	Temporal.Synchrony	Temporal.Synchrony
-wsj_1054	1-1	95-1	 said. "It should 	ou Anything Left?" -- Sam Ewing.	_	_	_	_	1>2	Expansion.Restatement.Specification	Expansion.Restatement.Specification

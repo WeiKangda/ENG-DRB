@@ -1,3 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0026	1-19	69-77	 Bush has approved duty-free treatment for imports of certain types of watches that are	ts were denied such duty-free treatment. Timex had	_	_	_	_	1>2	Temporal.Asynchronous.Succession	Temporal.Asynchronous.Succession
-wsj_0026	101-1	113-143	ded to grant duty-free status for 18 categories, but turned 	uch treatment for other types of watches "because of the potential for material injury to watch producers located in the U.S. and the Virgin Islands." Timex is a	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast

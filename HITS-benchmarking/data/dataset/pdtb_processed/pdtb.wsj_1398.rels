@@ -1,3 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1398	53-68	69-83	abound, I really like to read them; If I peruse enough, I'v	und I've no time left to heed them! -- Bern Sharfman. Daffyniti	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast
-wsj_1398	77-83	1-74	m! -- Bern Sharfman. Daffyniti	 I've no time l	_	_	_	_	1>2	Contingency.Condition.General	Contingency.Condition.General

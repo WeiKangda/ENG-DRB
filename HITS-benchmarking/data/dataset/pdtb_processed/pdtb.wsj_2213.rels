@@ -1,4 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_2213	70-88	88-98	none of us believes an offer for less than $25 per share would be fair and some b	e that $25 is too low." The lett	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_2213	131-1	169-180	isher of The Wall Street Journal, has launched an $18-a-share, or $576 million, tender offer to acquire the remaining Telerate shares outstanding; Dow Jones owns 67% of Telerate. Telerate has 	jected the offer, which expires Nov. 3. The group inc	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast
-wsj_2213	250-265	1-277	ones said he hadn't seen the group's filing, but added, "obvious	 Jones disagrees with their conclusions. Our offer is to buy	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast

@@ -1,2 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1276	3-1	31-1	f a previously announced transaction, Federal Mogul Corp. has bought approximately 565,000 shares of its common stock from Nortek Inc. at $23.50 a share. Nortek 	s agreed not to acquire any securities of Federal-Mogul for 10 years and not to influence company affairs during that period.	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

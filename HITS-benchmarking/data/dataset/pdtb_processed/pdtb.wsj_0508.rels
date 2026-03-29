@@ -1,6 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0508	117-121	123-124	e to win if calle	. Perhaps	_	_	_	_	1>2	Contingency.Condition.Hypothetical	Contingency.Condition.Hypothetical
-wsj_0508	1-203	203-240	 of Alfred Thayer Mahan (U.S. naval officer and naval historian) and Teddy Roosevelt the Navy has been the service most favored by Washington officialdom. Mr. Lehman overlo	s the fact that the Navy possesses its own air force (the carrier fleet) and its own army (the Marines), which in turn has its own air force. Of course these t	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0508	209-231	232-233	sses its own air force (the carrier fleet) and its own army (the Marines), which in turn has	ts ow	_	_	_	_	1>2	Expansion.Restatement.Specification	Expansion.Restatement.Specification
-wsj_0508	301-1	308-316	y because he couldn't get his 	p Navy? I personally do not want to	_	_	_	_	1>2	Contingency.Cause.Reason	Contingency.Cause.Reason
-wsj_0508	317-329	329-339	ten Mr. Lehman's demise, but I can see him figuring pr	tly in his own article. Carl Banerian Jr. Birmingham,	_	_	_	_	1>2	Comparison.Contrast.Juxtaposition	Comparison.Contrast.Juxtaposition

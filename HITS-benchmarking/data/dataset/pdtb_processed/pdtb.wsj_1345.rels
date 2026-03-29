@@ -1,3 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1345	38-65	65-78	re loss for the Paramus, N.J., food-services concern totaled seven cents, compared with earnings of 51 cents a share a year earlier. Revenue r	e 5% to $981.7 million from $934.7 million. Coniston,	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1345	114-1	1-1	income dropped 47% to $26.3 million, or 54 cents a share, from $49.7 million, or $1.02 a share. Revenue rose 	 to $2.79 billion from $2.63 billion.	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

@@ -1,6 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1757	38-51	1-85	e 14% to $918.4 million from $806.7 million. The enter	 of several movies released during the quarter, including "Parenthood" and "Uncle Buck," contributed to record revenue for its film unit. Both MCA'	_	_	_	_	1>2	Expansion.Restatement.Specification	Expansion.Restatement.Specification
-wsj_1757	1-85	86-91	 of several movies released during the quarter, including "Parenthood" and "Uncle Buck," contributed to record revenue for its film unit. Both MCA'	music-entertainment and book-publishing units also poste	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1757	100-1	148-1	mpany's net included a loss -- which it 	ed 	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1757	148-165	165-1	ed certain reserves related to the restructuring of its LJN Toys' international operations. These items w	e partly offset, MCA said, by 	_	_	_	_	1>2	Comparison.Contrast.Juxtaposition	Comparison.Contrast.Juxtaposition
-wsj_1757	1-246	247-1	 net rose 35% to $120.1 million, or $1.64 a share, from $89.2 million, or $1.22 a share, a year earlier. Revenue increased	2% to $2.5 billion from $2.1 billion.	_	_	_	_	1>2	Temporal.Synchrony	Temporal.Synchrony

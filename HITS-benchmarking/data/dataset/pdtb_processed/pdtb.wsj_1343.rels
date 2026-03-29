@@ -1,3 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1343	52-77	49-52	jara factory will employ about 1,500 workers and have annual operating expenses of $5 million to $6 million. An AT&T r	tional, the Guada	_	_	_	_	1>2	Temporal.Synchrony	Temporal.Synchrony
-wsj_1343	96-111	111-111	has a factory in Matamoros, Mexico, to make electrical devices. It also pur	as	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

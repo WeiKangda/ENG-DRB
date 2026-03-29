@@ -1,8 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1685	32-51	52-78	'd rather have a computer software firm in my backyard than a hazardous waste incinerator. But I'd a	ther live next door to an incinerator than to some of the hog farms I've seen (and smelt) in these parts. An incine	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast
-wsj_1685	32-51	51-52	'd rather have a computer software firm in my backyard than a hazardous waste incinerator. But I'd a	o rathe	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1685	51-78	78-81	o rather live next door to an incinerator than to some of the hog farms I've seen (and smelt) in these parts. An incine	tor is also proba	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1685	1-100	100-117	 there are four unoccupied houses. On my fou	mile drive to farm headquarters each morning, I drive by another four empty houses. A communi	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1685	181-193	162-180	ave we for dealing with the wastes our economy produces? After all	vironmentally safe way of dealing with a national problem cannot be built in Atchinson County, what hope	_	_	_	_	1>2	Contingency.Condition.Hypothetical	Contingency.Condition.Hypothetical
-wsj_1685	223-229	230-1	y are dangerous, but if ha	with care, their benefits far outweigh any risk to the environment.	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast
-wsj_1685	229-229	230-234	led	h care, their ben	_	_	_	_	1>2	Contingency.Condition.General	Contingency.Condition.General

@@ -1,4 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1520	2-1	18-40	onmental Protection Agency is getting a lot out of the Superfund program. Of the 	.4 billion spent so far on the program, 60% is going for administrative costs, management and research, the Off	_	_	_	_	1>2	Contingency.Cause.Reason	Contingency.Cause.Reason
-wsj_1520	18-40	49-61	.4 billion spent so far on the program, 60% is going for administrative costs, management and research, the Off	f 1,200 priority cleanup sites have been "decontaminated." Over t	_	_	_	_	1>2	Temporal.Synchrony	Temporal.Synchrony
-wsj_1520	76-1	93-1	t allocations, that means EPA will be spending $300 billion on itself. It may 	t be toxic, but we know where one waste dump is.	_	_	_	_	1>2	Contingency.Cause.Result	Contingency.Cause.Result

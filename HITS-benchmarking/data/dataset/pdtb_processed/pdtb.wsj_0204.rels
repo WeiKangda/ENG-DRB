@@ -1,4 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0204	150-175	177-197	hoice" fund will shun securities of companies linked to South Africa, nuclear power and in some cases, Northern Ireland. Also excluded w	investments in companies with "significant" business stemming from weapons manufacture, alcoholic beverages or tobacco. Sixty percent o	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0204	220-245	1-247	invest in high-grade or medium-grade bonds, mortgages or asset-backed securities, including as much as 15% in foreign securities. The fund also mig	 buy and	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0204	1-291	291-296	 t	ated, receive cash from t	_	_	_	_	1>2	Contingency.Condition.Hypothetical	Contingency.Condition.Hypothetical

@@ -1,3 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0645	33-53	55-78	672 transactions were announced during the latest quarter, up 13% from the year-earlier period's 597, Grimm sai	s in which prices were disclosed totaled $71.9 billion, up 36% from $52.9 billion a year earlier, the compa	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0645	121-1	1-162	ne months, 1,977 transactions were announced, up 15% from 1,716 in the year-earlier period. Transactions 	 which prices were disclosed totaled $188.1 billion, up 15% from $163.2 billion a year earlier. Citing curren	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

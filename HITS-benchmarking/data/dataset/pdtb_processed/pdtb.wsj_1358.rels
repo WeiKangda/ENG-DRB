@@ -1,5 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1358	27-57	57-71	se 1.7% to $121 million, or 81 cents a share, from $119 million, or 80 cents a share, the year earlier. Sales sli	ed 1.3% to $2.82 billion from $2.86 billion. For the n	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1358	72-119	120-132	months, the Morris Township, N.J.-based company, with businesses in aerospace, automotive products and engineered materials, earned $413 million, or $2.77 cents a share, up 15% from $359 million, or $2.40 a share. Sales eased	.2% to $8.88 billion from $8.90 billion. Chairman Ed	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast
-wsj_1358	1-158	159-159	 L. Hennessy Jr. said that a drop in sales of auto and truck parts contributed to lower earnings in the automotive unit. He also cited	nf	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1358	160-1	170-186	eign-exchange rates and a lower tax rate. Earnings for 	e group declined to $11 million from $33 million last year. Earnings at A	_	_	_	_	1>2	Contingency.Cause.Result	Contingency.Cause.Result

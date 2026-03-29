@@ -1,2 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_2135	17-42	42-1	th, 52 years old, succeeds Ermanno Pascutto, 36, who resigned to join Hong Kong's Securities and Futures Commission. Mr. Kos	th was vice president and director, corporate finance, of Nesbitt Thomson Deacon Inc., a Toronto investment dealer.	_	_	_	_	1>2	Temporal.Asynchronous.Succession	Temporal.Asynchronous.Succession

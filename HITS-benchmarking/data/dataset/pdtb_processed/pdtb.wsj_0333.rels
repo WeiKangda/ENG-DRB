@@ -1,4 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0333	1-23	25-28	 Trace Inc. said it is exploring alternatives to maximize shareholder value, including the possible sale of the company. But Ash	elman, who contr	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast
-wsj_0333	99-113	114-131	d the decision "has nothing to do with Marty Ackerman." Mr. Ackerman	ntended that it was a direct response to his efforts to gain control of Datapoint. Intelogic was	_	_	_	_	1>2	Comparison.Contrast.Opposition	Comparison.Contrast.Opposition
-wsj_0333	132-142	145-1	n off from Datapoint four years ago, shortly after M	control of Datapoint.	_	_	_	_	1>2	Temporal.Asynchronous.Succession	Temporal.Asynchronous.Succession

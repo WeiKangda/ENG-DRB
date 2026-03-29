@@ -1,3 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_2335	27-32	1-34	ned last month. Mr. Fie	 also had	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_2335	2-18	75-75	enfreund, 52 years old, was named chairman of this processor of prescription claims, succeed	nam	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

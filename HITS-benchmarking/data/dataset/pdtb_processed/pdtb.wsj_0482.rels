@@ -1,3 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0482	77-95	96-97	red an investment banker earlier this month to advise it regarding a possible sale or merger. Mercury als	is shri	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0482	96-122	123-141	is shrinking itself, part of its plan to change its emphasis from buying mortgage loans from mortgage brokers to making loans directly. Such a focu	is "more profitable, more efficient and gives us a greater sense of control," said Willi	_	_	_	_	1>2	Contingency.Cause.Reason	Contingency.Cause.Reason

@@ -1,3 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1983	2-29	36-37	r president of FirstSouth F.A., a defunct Arkansas thrift, pleaded guilty to conspiring to inflate the institution's earnings by concealing worthless loan guarantees. Roderic	o chief	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1983	2-29	1-1	r president of FirstSouth F.A., a defunct Arkansas thrift, pleaded guilty to conspiring to inflate the institution's earnings by concealing worthless loan guarantees. Roderic	 chairman and chief executive officer, Howard Weichern, is also charged with 	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

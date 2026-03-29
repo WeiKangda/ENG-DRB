@@ -1,2 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0649	94-111	111-1	ent, sales rose 13% to 44.3 billion yen from 39.19 billion yen. Sales of elec	ic appliances were flat, and sales of 	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

@@ -1,7 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0930	16-26	26-1	Sharon Steel Corp. out of Chapter 11 proceedings and to a	e the company's steel-related assets in a transaction valued at more than $300 million. Castle 	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0930	59-78	1-103	acquire the assets for a combination of cash and the assumption of certain of Sharon's liabilities. The balan	 of the company's assets and liabilities would be transferred to a new company that would be owned by Sharon's creditors. Quantum s	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0930	1-123	125-127	 as much as $50 million in equity in the new company, if necess	for the c	_	_	_	_	1>2	Contingency.Condition.Hypothetical	Contingency.Condition.Hypothetical
-wsj_0930	140-156	1-168	xpected to be filed within 60 days with the U.S. Bankruptcy Court in Pittsburgh. The agreeme	 is subject to certain conditions, including obtaining financing. Castle Harl	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast
-wsj_0930	172-180	1-203	ancing is already being sought and that a f	 proposal would be made to Sharon's Chapter 11 trustee and other Sharon creditors over the next few days. Sharon, bas	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0930	322-333	333-1	n declined to comment on the proposal. The company's tru	ee, F.E. Agnew, was unavailable for comment.	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

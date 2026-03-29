@@ -1,2 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0797	2-28	1-1	otors Corp. 's Chevrolet division said it is offering $750 cash incentives on all 1990 models of its full-size Blazer and Suburban truck lines. Chevrol	 already has cash incentives on the 1989 models of these vehicles.	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

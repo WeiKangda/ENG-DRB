@@ -1,4 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1106	80-93	1-102	e from the Middle East grew 17% from year-earlier levels, and Southeast	 crude imports grew 43%. While Mideast	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1106	116-122	104-116	pared with August imports. Southeast Asian	orts were higher compared with year-earlier levels, they fell 18% c	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast
-wsj_1106	116-122	123-129	pared with August imports. Southeast Asian	rude imports, however, were 3	_	_	_	_	1>2	Comparison.Contrast.Opposition	Comparison.Contrast.Opposition

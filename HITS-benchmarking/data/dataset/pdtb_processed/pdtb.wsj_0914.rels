@@ -1,5 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0914	1-15	28-1	 has approved a 1-for-10 reverse stock split. The Cla	shareholders to approve the split because 	_	_	_	_	1>2	Temporal.Asynchronous.Precedence	Temporal.Asynchronous.Precedence
-wsj_0914	28-1	1-48	shareholders to approve the split because 	"enhance the marketability" and trading of the stock. If appr	_	_	_	_	1>2	Contingency.Cause.Reason	Contingency.Cause.Reason
-wsj_0914	28-48	48-1	ers to approve the split because it would "enhance the marketability" and trading of the stock. If appr	ed at a shareholder meeting in December, the number of shares outstanding would decrease to five million from 50 million, and par value would rise to 10 cents from a penny.	_	_	_	_	1>2	Expansion.Restatement.Specification	Expansion.Restatement.Specification
-wsj_0914	57-71	1-1	r of shares outstanding would decrease to five million from 50 million, and par	 would rise to 10 cents from a penny.	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

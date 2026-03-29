@@ -1,3 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1678	20-54	54-54	Stock Exchange arbitration panel ordered Dean Witter to pay $404,294 in back bonuses to William Kelly, the company's former head of high-yield, high-risk junk-bond trading and sales. It also a	rd	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1678	167-182	1-203	a separate case involving a former bond executive earlier this year; in August it pa	 $666,666 in back pay and a bonus to a former corporate-bond trading chief, Harold Bachman. That award ende	_	_	_	_	1>2	Contingency.Cause.Result	Contingency.Cause.Result

@@ -1,3 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1905	111-129	131-147	Morrison had losses totaling $186 million over the two years ended in December, but it has surged	to profitability as a result of cost-cutting and shedding of unprofitable operations. In the nine month	_	_	_	_	1>2	Comparison.Contrast.Opposition	Comparison.Contrast.Opposition
-wsj_1905	149-185	187-1	he company's net income was $21.5 million, or $1.88 a share, compared with a year-earlier loss of $97.8 million, or $8.96 a share. Revenue rose 17% to	1.62 billion from $1.39 billion.	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

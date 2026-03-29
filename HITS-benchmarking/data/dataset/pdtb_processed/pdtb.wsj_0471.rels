@@ -1,3 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0471	39-67	67-1	estor group led by New York-based Crescott Investment Associates, had itself filed a suit in state court in Los Angeles seeking to nullify the agreement. Earlier t	s year, Dataproducts had rejected a $15 a share offer from DPC, saying it wasn't adequately financed. DPC last 	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0471	67-1	91-1	s year, Dataproducts had rejected a $15 a share offer from DPC, saying it wasn't adequately financed. DPC last 	ek launched a new, $10-a-share offer for the Woodland Hills, Calif.-based computer printer maker. DPC said 	_	_	_	_	1>2	Temporal.Asynchronous.Precedence	Temporal.Asynchronous.Precedence

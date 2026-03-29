@@ -1,4 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0024	83-88	89-97	e gradually increased until it rea	out 11,000 barrels a day. The field h	_	_	_	_	1>2	Temporal.Asynchronous.Precedence	Temporal.Asynchronous.Precedence
-wsj_0024	118-131	132-141	olphin fields are expected to start producing early next year, and the Seaho	d Tarwhine fields later next year. Esso said the	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0024	1-147	148-1	 developed after the Aust	government decided in 1987 to make the first 30 million barrels from new fields free of excise tax.	_	_	_	_	1>2	Temporal.Asynchronous.Succession	Temporal.Asynchronous.Succession

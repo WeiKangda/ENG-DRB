@@ -1,4 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1501	39-56	72-74	s subject to the signing of a merger agreement by no later than Oct. 31. The lette	is also conting	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1501	1-24	146-148	 Partners Limited Partnership said it proposed to acquire A.P. Green Industries Inc. for $40 a share. In an O	id in the	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1501	153-166	166-174	ts stake in A.P. Green to 8.7%. It now holds 23	000 A.P. Green common shares, including 30,00	_	_	_	_	1>2	Contingency.Cause.Result	Contingency.Cause.Result

@@ -1,4 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0656	103-1	1-103	rent intention to pursue such a possibility, the filing 	 has considered seeking to acquire the remaining equity of Deb Stores, it has no c	_	_	_	_	1>2	Comparison.Concession.Expectation	Comparison.Concession.Expectation
-wsj_0656	122-137	138-157	ignificance in Mr. Petrie selling his stock to Petrie Stores. "We didn't lo	at it and say, `Oh my God, something is going to happen, '" said Stanl	_	_	_	_	1>2	Expansion.Restatement.Equivalence	Expansion.Restatement.Equivalence
-wsj_0656	172-196	197-1	r his company have been accumulating Deb Shops stock for several years, each time issuing a similar regulatory statement. He said no disc	rrently are taking place between the two companies.	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

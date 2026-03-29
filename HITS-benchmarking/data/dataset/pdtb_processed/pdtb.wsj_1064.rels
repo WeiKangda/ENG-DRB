@@ -1,6 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1064	20-40	44-54	s in what the telecommunications giant called a new generation of such equipment are available now, AT&T said	s will be introduced in 1990 and 1991. The produ	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1064	100-112	112-118	of mazes of wiring to interconnect other telecommunications equipment. This cuts d	n greatly on labor, Mr. Buchner	_	_	_	_	1>2	Contingency.Cause.Reason	Contingency.Cause.Reason
-wsj_1064	92-112	123-1	already available are cross-connect systems, used instead of mazes of wiring to interconnect other telecommunications equipment. This cuts d	ced later are a 	_	_	_	_	1>2	Temporal.Asynchronous.Precedence	Temporal.Asynchronous.Precedence
-wsj_1064	2-20	278-278	Telephone & Telegraph Co. unveiled new optical transmission systems for data, video and voice communications. Two pro	ounce	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1064	1-1	298-1	 growth in demand for such products. It noted that last 	ly, Nippon Telegraph & Telephone Corp. of Japan selected AT&T to supply $154 million of such equipment over a four-year period starting next year.	_	_	_	_	1>2	Expansion.Restatement.Specification	Expansion.Restatement.Specification

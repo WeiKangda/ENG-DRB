@@ -1,2 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0662	35-53	53-69	-counter trading Friday, Jayark was quoted at 87.5 cents bid, down 15.625 cents. At the ma	et price, the transaction has a total indicated value of $7.4 million. Kofcoh is	_	_	_	_	1>2	Contingency.Cause.Result	Contingency.Cause.Result

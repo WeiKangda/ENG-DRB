@@ -1,3 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1491	2-31	1-1	nterprises, bolstered by improved tonnages in its marine-shipping unit, had a narrower third-quarter net loss of $1.1 million, or five cents a share. Last ye	 third quarter, usually a money-losing one because of the seasonality of the gas business, were also aided by 	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1491	115-150	152-1	hs, Eastern had net income of $41.8 million, or $1.80 a share, up 23% from $33.9 million or $1.46 a share a year ago. Revenue grew 24	to $614.5 million from $497.1 million.	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

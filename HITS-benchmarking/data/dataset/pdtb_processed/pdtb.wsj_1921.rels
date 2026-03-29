@@ -1,2 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1921	75-99	1-1	taxes and minority interests but before extraordinary items increased 22% to #92.6 million from #75.6 million a year earlier, while fully	 earnings per share rose to 29.90 pence (47 cents) from 24.68 pence (39 cents).	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

@@ -1,5 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0625	36-44	44-68	itive tenders will be accepted. Tenders, av	lable in minimum denominations of $1 million, must be received by noon EST today at Federal Reserve Banks or branches. The Treasur	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0625	2-23	69-70	ury said it plans to sell $2 billion of 51-day cash-management bills today, raising all new cash. The bil	so announced	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0625	69-82	141-142	so announced details of this week's unusual bill auction, which has bee	aid noncompe	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0625	143-151	1-167	ers will be considered timely if postmarked no l	 than Sunday, Oct. 29, and received no later than tomorrow. The Treasury said	_	_	_	_	1>2	Contingency.Condition.Hypothetical	Contingency.Condition.Hypothetical

@@ -1,2 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0785	2-17	17-26	production of market pulp rose 1% in September from a year earlier as the i	try operated at 87% of capacity. The Can	_	_	_	_	1>2	Temporal.Synchrony	Temporal.Synchrony

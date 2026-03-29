@@ -1,4 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1665	1-54	54-67	 $49.9 million, or 44 cents a share, from $37.1 million, or 32 cents a share, a year earlier. Sales dec	ned 3% to $524.5 million from $539.4 million. Paul Fire	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1665	2-21	172-193	ternational Ltd. posted a 35% increase in third-quarter net income despite a slight decline in sales. The ath	e acquisition of CML Group Inc. 's Boston Whaler unit, a builder of power boats. CML, Acton, Mass.	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1665	195-1	212-214	d agreed to sell the unit to Reebok for about $42 million. The agreement also 	lled for Reeb	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

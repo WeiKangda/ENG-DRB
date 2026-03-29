@@ -1,2 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1965	2-16	16-1	. raised $1 billion in new capital during the third quarter. In yest	day's edition, the amount of new capital was misstated. (See: "	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast

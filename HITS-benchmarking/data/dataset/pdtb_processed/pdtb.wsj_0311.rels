@@ -1,4 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0311	10-23	24-32	es its huge deficit with cuts in defense spending and capital outlays while st	to improve supplies to frustrated consumers. The vot	_	_	_	_	1>2	Temporal.Synchrony	Temporal.Synchrony
-wsj_0311	1-68	1-78	 a good start, but that th	 difficult work was still ahead. The Tass ne	_	_	_	_	1>2	Comparison.Contrast.Juxtaposition	Comparison.Contrast.Juxtaposition
-wsj_0311	135-152	126-134	o halve this year's 120 billion ruble (US$193 billion) deficit. Officials propo	n stick with them, it will be able	_	_	_	_	1>2	Contingency.Condition.Hypothetical	Contingency.Condition.Hypothetical

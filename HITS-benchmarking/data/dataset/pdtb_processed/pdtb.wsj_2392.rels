@@ -1,4 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_2392	73-105	105-1	o maker disclosed last month that it wants to buy as much as 15% of the British luxury-car maker, the maximum allowed under current United Kingdom government restrictions. General Mot	s Corp. said it had discussed the possibility of a joint venture with Jaguar before Ford began buying shares. GM said it 	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_2392	110-1	122-1	sed the possibility of a joint venture with Jaguar before Ford 	ying shares. GM said it 	_	_	_	_	1>2	Temporal.Asynchronous.Precedence	Temporal.Asynchronous.Precedence
-wsj_2392	110-1	130-1	sed the possibility of a joint venture with Jaguar before Ford began buying shares. GM said it 	alking with Jaguar about acquiring a minority interest.	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

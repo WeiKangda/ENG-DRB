@@ -1,4 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0696	1-18	18-39	 listed below reported quarterly profit substantially different from the average of analysts' estimates. The com	nies are followed by at least three analysts, and had a minimum five-cent change in actual earnings per share. Estimat	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0696	18-39	1-49	nies are followed by at least three analysts, and had a minimum five-cent change in actual earnings per share. Estimat	 and actual results involving losses are omitted. The per	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0696	1-72	75-85	 difference compares actual profit with the 30-day estimate where at least three analysts have issues forecasts in the past 30 days. Otherwise	it is compared with the 300-day estimate. Source: Z	_	_	_	_	1>2	Expansion.Alternative.Disjunctive	Expansion.Alternative.Disjunctive

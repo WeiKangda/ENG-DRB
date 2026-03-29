@@ -1,4 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1176	3-31	32-40	onuts Inc., battling a takeover proposal by Canada's DD Acquisition Corp., said that its directors will evaluate takeover offers submitted by Nov. 10. Dunkin'	uts, based in Randolph, Mass., previous	_	_	_	_	1>2	Temporal.Asynchronous.Succession	Temporal.Asynchronous.Succession
-wsj_1176	1-91	95-105	 alternative being considered," but he add	n't decided whether to sell the doughnut franchiser. DD Acquisit	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast
-wsj_1176	144-172	172-1	nnouncement followed DD Acquisition's request to the Delaware Court of Chancery Monday to set a trial date for its suit against the company. The trial had b	n postponed to allow Dunkin' Donuts to seek alternatives to DD Acquisition's offer.	_	_	_	_	1>2	Temporal.Asynchronous.Succession	Temporal.Asynchronous.Succession

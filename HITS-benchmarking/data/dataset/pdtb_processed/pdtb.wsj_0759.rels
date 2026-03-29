@@ -1,6 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0759	63-84	58-62	be free to increase its 22.4% stake in Southam, or to make an offer for the whole company. Descendants	t expires, Torstar wil	_	_	_	_	1>2	Temporal.Asynchronous.Succession	Temporal.Asynchronous.Succession
-wsj_0759	222-229	229-238	he paper requires more circulation and building circu	n is an expensive undertaking," said John Macfar	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0759	422-432	1-1	n maximum profits from its operations while disposing of "chro	 under-performing" assets. Southam agreed to sell 	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0759	442-473	474-501	47% stake in Selkirk Communications Ltd., a broadcasting concern, to Maclean Hunter Ltd. for about C$285 million last year. This year, it has moved t	cut costs in its newspaper division through layoffs and asset sales, while reaching joint venture and acquisition agreements in other areas. The Financial Times of Ca	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0759	478-489	491-501	er division through layoffs and asset sales, while reaching joint vent	acquisition agreements in other areas. The Financial Times of Ca	_	_	_	_	1>2	Temporal.Synchrony	Temporal.Synchrony

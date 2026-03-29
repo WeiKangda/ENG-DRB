@@ -1,4 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1754	1-79	80-83	 minority investments in makers of steam-generating and related equipment, Stein Industrie and Energie & Verfahrenstechnik, to the major shareholder in the companies, Dutch-based GEC Alsthom N.V. Combustio	gineering, which provi	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1754	80-83	108-123	gineering, which provi	its Georgia Kaolin Co. subsidiary was sold to a unit of Unimin Corp. Assets of C	_	_	_	_	1>2	Expansion.Restatement.Specification	Expansion.Restatement.Specification
-wsj_1754	123-138	140-1	ruction Equipment International, Houston, were sold to Essex Crane Inc., and the asse	lgin Electronics, Erie, Pa., were sold to closely held Charter Technologies Inc.	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

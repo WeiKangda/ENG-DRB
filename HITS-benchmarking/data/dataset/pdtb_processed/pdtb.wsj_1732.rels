@@ -1,3 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1732	84-98	98-111	os Angeles-based trust plans to sell its interests in 36 hotels, while the c	on will sell its management interests in 32 of those properties. Excluded fr	_	_	_	_	1>2	Comparison.Contrast.Juxtaposition	Comparison.Contrast.Juxtaposition
-wsj_1732	140-165	132-140	poration will consider a number of options including a stock repurchase, payment of special dividend or investment in more gaming properties. The companies w	le and paying debts, the trust and c	_	_	_	_	1>2	Temporal.Asynchronous.Succession	Temporal.Asynchronous.Succession

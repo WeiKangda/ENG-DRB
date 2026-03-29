@@ -1,3 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0486	11-28	55-76	ed the tissue operations of Buhrmann-Tetterode N.V. of the Netherlands for about $77 million. The Dut	tion includes production assets of Invercon Papermils, a maker of household tissue products for the U.K. and Ireland. The combi	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0486	90-116	121-131	a maker of pulp, paper and plastic products, already has interests in tissue businesses in France, Spain, Italy and Turkey. The company	orm European ventures with Italian and Finnish companies. The Celtona	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

@@ -1,3 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1236	47-62	64-75	ed $5.12 billion, up from $4.52 billion a year earlier, while impor	to $6.81 billion from $5.33 billion. The trade d	_	_	_	_	1>2	Comparison.Contrast.Juxtaposition	Comparison.Contrast.Juxtaposition
-wsj_1236	1-113	113-1	 the year to surpass $2 billion as demand for ca	l equipment and raw materials continues to push imports higher.	_	_	_	_	1>2	Contingency.Cause.Reason	Contingency.Cause.Reason

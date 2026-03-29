@@ -1,9 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0980	14-17	1-20	th Caution When Tra	 Abroad" because	_	_	_	_	1>2	Temporal.Synchrony	Temporal.Synchrony
-wsj_0980	1-20	21-34	 25 "Tracking Travel" column advises readers to "Charge With Caution When Traveling Abroad" because	rd companies charge 1% to convert foreign-currency expenditures into dollars. In fact	_	_	_	_	1>2	Contingency.Cause.Reason	Contingency.Cause.Reason
-wsj_0980	83-90	92-1	s his dollars into foreign currency before the	arts will lose 	_	_	_	_	1>2	Temporal.Asynchronous.Precedence	Temporal.Asynchronous.Precedence
-wsj_0980	78-104	105-1	his, the traveler who converts his dollars into foreign currency before the trip starts will lose interest from the day of conversion. At the en	of the trip, any unspent foreign exchange will have to be converted back into dollars, with another commission due. The card 	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0980	129-1	1-159	er will pay the modest 1% fee only on the amounts actually needed. Typically, 	 will be billed only several weeks after the expenditure, and then ha	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0980	1-159	160-160	 will be billed only several weeks after the expenditure, and then ha	ano	_	_	_	_	1>2	Temporal.Asynchronous.Precedence	Temporal.Asynchronous.Precedence
-wsj_0980	160-166	1-174	another couple of weeks before he ha	 the bill. In the mean	_	_	_	_	1>2	Temporal.Asynchronous.Precedence	Temporal.Asynchronous.Precedence
-wsj_0980	1-174	1-202	 will be billed only several weeks after the expenditure, and then has another couple of weeks before he has to pay the bill. In the mean	 continue to earn interest for the card holder -- often more than 1% during that "float" period alone. Daniel Brig	_	_	_	_	1>2	Temporal.Synchrony	Temporal.Synchrony

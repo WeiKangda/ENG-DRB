@@ -1,7 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0928	158-182	184-192	w computers, called Sparcstation 1, accounted for nearly half of the 28,000 systems Sun shipped in the quarter, he said. More	hirds of the systems shipped, meanwhile, we	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0928	201-1	236-238	anufacturing, forecasting demand and getting the bugs out of a new management information system made it extremely difficult for Sun to meet demand for its newest computers well into the summer. These problems 	so resulted in	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0928	260-1	282-292	t Sun's performance earlier this year are now "largely" behind the firm, and he indicated 	ility should increase throughout the fiscal year. Sun also reported	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0928	2-1	294-294	systems Inc., snapping back to profitability after its first quarterly loss as a public firm, said it earned $5.2 million, or seven cents a share, in the fiscal first quarter. Sun, a 	eco	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0928	315-1	302-314	competition from Digital Equipment Corp. and Hewlett-Packard Co. Recently, analysts 	ued strong demand for the company's desk-top computers, Sun faces increasin	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast
-wsj_0928	315-1	332-333	competition from Digital Equipment Corp. and Hewlett-Packard Co. Recently, analysts 	e t	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

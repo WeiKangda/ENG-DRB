@@ -1,5 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0281	20-31	37-49	s against the jetliner's maker are being pursued, a feder	a unit of NWA Inc., and McDonnell Douglas Corp., which mad	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0281	99-110	111-118	udge Julian A. Cook Jr. announced the settlements as the jury tr	was to begin yesterday. He reset open	_	_	_	_	1>2	Temporal.Synchrony	Temporal.Synchrony
-wsj_0281	99-118	118-125	udge Julian A. Cook Jr. announced the settlements as the jury trial was to begin yesterday. He reset open	g arguments for today. The jury will	_	_	_	_	1>2	Temporal.Asynchronous.Precedence	Temporal.Asynchronous.Precedence
-wsj_0281	167-197	198-218	to set the plane's wing flaps and slats properly for takeoff and failed to make mandatory preflight checks that would have detected the error. Also, a cockpit w	ystem failed to alert the pilots the flaps and slats were not set for takeoff, the NTSB said. Th	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

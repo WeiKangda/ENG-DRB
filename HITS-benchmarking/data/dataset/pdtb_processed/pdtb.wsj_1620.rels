@@ -1,7 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1620	44-73	74-102	oup, led by investor Malcolm I. Glazer, violated securities laws by failing to disclose plans to purchase 15% of the company's shares outstanding and that w	he required Hart-Scott-Rodino filing eventually was made, it didn't disclose the group's alleged earlier violation of the so-called prior-notice requirements of the law. Mr. Glaze	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1620	73-75	75-84	en the r	d Hart-Scott-Rodino filing eventually was made, it didn't	_	_	_	_	1>2	Temporal.Synchrony	Temporal.Synchrony
-wsj_1620	103-113	114-1	uldn't immediately be reached to comment. But when Ha	ast week publicly questioned the legality of the group's filing procedures, the Rochester, N.Y., investor said "we complied with every law," and he denied any wrongdoing. The Glazer 	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast
-wsj_1620	113-1	115-128	ey 	eek publicly questioned the legality of the group's filing procedures, the Rochest	_	_	_	_	1>2	Temporal.Asynchronous.Succession	Temporal.Asynchronous.Succession
-wsj_1620	113-1	1-1	ey 	 wrongdoing. The Glazer 	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1620	165-183	187-1	k a controlling interest in Harley-Davidson, or seek representation on the company's board. Harley has sa	nd to be acquired by the Glazer group or any other party.	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast

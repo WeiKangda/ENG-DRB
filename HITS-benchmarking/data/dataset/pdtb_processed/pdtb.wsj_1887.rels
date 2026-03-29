@@ -1,6 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1887	54-61	62-75	o find new markets if it is t	intain its growth rate of 30% and more each year. The marke	_	_	_	_	1>2	Contingency.Condition.Hypothetical	Contingency.Condition.Hypothetical
-wsj_1887	54-75	76-100	o find new markets if it is to maintain its growth rate of 30% and more each year. The marke	for system-management software for Digital's hardware is fragmented enough that a giant such as Computer Associates should do well there. At the sa	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast
-wsj_1887	101-116	117-130	ime, the market is smaller than the market for IBM-compatible software. For one thi	, Digital, Maynard, Mass., has sold fewer machines. In addition	_	_	_	_	1>2	Contingency.Cause.Reason	Contingency.Cause.Reason
-wsj_1887	117-130	134-1	, Digital, Maynard, Mass., has sold fewer machines. In addition	are typically easier to operate, so customers require less assistance from software.	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1887	132-141	142-1	its machines are typically easier to operate, so customer	uire less assistance from software.	_	_	_	_	1>2	Contingency.Cause.Result	Contingency.Cause.Result

@@ -1,6 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_2069	81-89	1-127	kes a more alarmed view of AIDS and recommen	 the AIDS epidemic "may reduce the rate of growth of the work force, curb productivity gains and slow economic growth." It contend	_	_	_	_	1>2	Expansion.Instantiation	Expansion.Instantiation
-wsj_2069	130-141	1-155	vernment policy is failing to stem the AIDS epidemic because it sug	 use of condoms can make sex "safe." But the repo	_	_	_	_	1>2	Contingency.Cause.Reason	Contingency.Cause.Reason
-wsj_2069	141-155	162-1	ests the use of condoms can make sex "safe." But the repo	ex is sex between uninfected partners," and testing 	_	_	_	_	1>2	Comparison.Contrast.Juxtaposition	Comparison.Contrast.Juxtaposition
-wsj_2069	162-1	174-183	ex is sex between uninfected partners," and testing 	only way to learn of infection. Hudson's rese	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_2069	2-31	220-1	al government should make free, voluntary testing for the AIDS virus the cornerstone of an expanded campaign to stop the spread of acquired immune deficiency syndrome, the Hud	state governments provide free treatment to all who test positive.	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

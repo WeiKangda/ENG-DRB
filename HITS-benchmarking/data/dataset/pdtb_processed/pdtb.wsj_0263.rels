@@ -1,6 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0263	2-10	10-18	Corp. declared a 2-for-1 stock split. The Wil	ngton, Mass., garment service company also boo	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0263	10-35	35-44	ngton, Mass., garment service company also boosted its quarterly dividend 20% to three cents a share adjusted for the split. The div	end had been five cents a share. The spl	_	_	_	_	1>2	Temporal.Asynchronous.Succession	Temporal.Asynchronous.Succession
-wsj_0263	2-10	81-1	Corp. declared a 2-for-1 stock split. The Wil	reported that net income rose 21% to $3 million, or 29 cents a share adjusted for the split, for the fourth quarter ended Aug. 26. A year 	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0263	78-1	113-131	y, UniFirst reported that net income rose 21% to $3 million, or 29 cents a share adjusted for the split, for the fourth quarter ended Aug. 26. A year 	rlier UniFirst earned $2.4 million, or 24 cents a share adjusted for the split. Sales r	_	_	_	_	1>2	Comparison.Contrast.Juxtaposition	Comparison.Contrast.Juxtaposition
-wsj_0263	113-131	131-1	rlier UniFirst earned $2.4 million, or 24 cents a share adjusted for the split. Sales r	e to $52.4 million from $50.1 million.	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

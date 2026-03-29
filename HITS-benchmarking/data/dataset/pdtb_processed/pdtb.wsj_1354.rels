@@ -1,2 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1354	74-1	100-109	r, CMS posted profit of $1.1 million, or 13 cents a share, on sales of $48 million. This time, 	ere are 30% more shares outstanding. Mr. Farooqu	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast

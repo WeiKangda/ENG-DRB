@@ -1,3 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0643	35-54	54-1	risons with the previous year were unavailable because of a change in the company's fiscal calendar. The Tokyo	ased company had net of 3.73 billion yen in the previous reporting period, which was the four months ended March 31. Sales in 	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast
-wsj_0643	99-132	132-1	ted that sales for the year ending next March 31 will be 318 billion yen, compared with 340.83 billion yen in the year ended Nov. 30, 1988. It said it ex	cts net to rise to 11 billion yen from 8.22 billion yen.	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

@@ -1,4 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0427	128-155	156-173	h, an attorney for the Telerate holders, told Judge Hartnett the Dow Jones offer is "arrogant" and "hostile." He accused D	Jones of "using unfair means to obtain the stock at an unfair price." Michael Rauc	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0427	1-210	1-211	 attorney for Dow Jones, defended the offer as adequate, based on what the company considers realistic projections of Telerate's revenue growth, in the range of 12%. He also contend	 t	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0427	229-240	1-1	nformation about financial markets through an electronic network. Dow Jones publish	 The Wall Street Journal, Barron's magazine, other periodicals and community newspapers and operates electronic business information services.	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

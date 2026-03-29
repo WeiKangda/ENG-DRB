@@ -1,4 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0073	8-1	22-37	ed rights offering to raise about $9 million was declared effective and the 	ny will begin mailing materials to shareholders at the end of this week. Under t	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0073	38-53	54-83	ffer, shareholders will receive one right for each 105 common shares owned. Each righ	entitles the shareholder to buy $100 face amount of 13.5% bonds due 1993 and warrants to buy 23.5 common shares at 30 cents a share. The right	_	_	_	_	1>2	Expansion.Restatement.Specification	Expansion.Restatement.Specification
-wsj_0073	54-83	1-1	entitles the shareholder to buy $100 face amount of 13.5% bonds due 1993 and warrants to buy 23.5 common shares at 30 cents a share. The right	 which expire Nov. 21, can be exercised for $100 each. Integra, 	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

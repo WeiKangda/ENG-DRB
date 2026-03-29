@@ -1,5 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1340	43-1	64-80	mpares with net income of $162.1 million, or $2.01 a share, in the year-earlier period. Interest 	come rose 29% to about $1.35 billion from $1.05 billion. The New Y	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1340	64-80	80-99	come rose 29% to about $1.35 billion from $1.05 billion. The New Y	k bank holding company's assets at Sept. 30 climbed to $59.4 billion from $57.9 billion. Excluding	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1340	1-124	125-139	 increase in loan-loss reserves, Bankers Trust said third-quarter net income would have increased 11% to $180 million. A number of	ajor banks have posted big losses after sharply increasing loan-loss reserves. Most of the	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1340	125-132	133-139	ajor banks have posted big losses after sharpl	asing loan-loss reserves. Most of the	_	_	_	_	1>2	Temporal.Asynchronous.Succession	Temporal.Asynchronous.Succession

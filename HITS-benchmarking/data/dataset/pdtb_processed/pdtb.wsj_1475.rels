@@ -1,3 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1475	60-77	79-84	ar merged its North Sea oil and gas operations with those of Calor Group PLC and which ow	% of Calor, was identif	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1475	98-106	107-1	any discussions with SHV and that "no d	f any nature is in contemplation."	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

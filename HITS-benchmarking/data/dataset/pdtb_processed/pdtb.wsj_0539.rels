@@ -1,3 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0539	28-34	34-44	't been finalized, but the t	tion is expected to close by year end, Pacific F	_	_	_	_	1>2	Comparison.Contrast.Juxtaposition	Comparison.Contrast.Juxtaposition
-wsj_0539	50-65	66-74	onstruction lending portfolio includes about $250 million in real-estate loans outstanding. The unit ha	30 employees in four California offices, the company	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

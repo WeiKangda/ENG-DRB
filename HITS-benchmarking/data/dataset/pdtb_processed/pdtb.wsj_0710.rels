@@ -1,3 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0710	2-1	21-50	. 25 criticism of credit-card foreign-exchange charges is unwarranted. I have 	et exchange rate charged on my Visa account was more favorable than I obtained for traveler's checks in any of the several banks where I converted them. Vincent	_	_	_	_	1>2	Contingency.Cause.Reason	Contingency.Cause.Reason
-wsj_0710	14-20	22-50	st returned from France, and the	xchange rate charged on my Visa account was more favorable than I obtained for traveler's checks in any of the several banks where I converted them. Vincent	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

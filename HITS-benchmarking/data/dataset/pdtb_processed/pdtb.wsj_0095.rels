@@ -1,6 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0095	36-47	49-58	erals, 60% have positive views of her, while 5	ve of the president's job performance. In part	_	_	_	_	1>2	Comparison.Contrast.Juxtaposition	Comparison.Contrast.Juxtaposition
-wsj_0095	90-114	115-142	fessionals, 76% have a favorable opinion of her, compared to 62% who approve of her husband's performance. While a	uarter of black voters disapprove of Mr. Bush's handling of his job, only 15% have a negative view of his spouse." The st	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0095	132-142	1-130	have a negative view of his spouse." The st	 of black voters disapprove of Mr. Bush's handling of his job, only 15	_	_	_	_	1>2	Comparison.Contrast.Juxtaposition	Comparison.Contrast.Juxtaposition
-wsj_0095	145-158	159-167	quarters of blacks approve of Mr. Bush's job performance and 85% of	ks approve of Mrs. Bush. If the as	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0095	194-207	208-221	torial point of view perpetuates an insidious, stereotyped perspective. Why are w	blacks continually defined by our minority and the lowest common denominator. Preston G	_	_	_	_	1>2	Expansion.Restatement	Expansion.Restatement

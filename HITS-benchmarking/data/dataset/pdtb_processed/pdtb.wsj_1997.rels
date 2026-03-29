@@ -1,3 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1997	33-45	56-74	company is diversifying into other industries around the world," said pre	e talked about Blinder International, {people} thought it was the brokerage house." Mr. Blin	_	_	_	_	1>2	Comparison.Contrast.Juxtaposition	Comparison.Contrast.Juxtaposition
-wsj_1997	56-74	78-89	e talked about Blinder International, {people} thought it was the brokerage house." Mr. Blin	wasn't related to the brokerage's recent troubles, which hav	_	_	_	_	1>2	Comparison.Contrast.Juxtaposition	Comparison.Contrast.Juxtaposition

@@ -1,4 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1494	1-86	87-88	 new position. The company	o reassigne	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1494	87-96	96-113	o reassigned several executive responsibilities. David Tagg, f	merly in charge of gambling operations, was appointed chief executive for retailing and property. Peter Cawdron	_	_	_	_	1>2	Expansion.Restatement.Specification	Expansion.Restatement.Specification
-wsj_1494	96-113	115-1	merly in charge of gambling operations, was appointed chief executive for retailing and property. Peter Cawdron	group strategy development director, and Bill Shardlow, group personnel director, will become part of the board's management committee.	_	_	_	_	1>2	Expansion.List	Expansion.List

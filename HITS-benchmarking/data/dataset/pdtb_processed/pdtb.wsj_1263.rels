@@ -1,8 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1263	133-137	138-139	e as Reebok, whi	rew ra	_	_	_	_	1>2	Contingency.Cause.Reason	Contingency.Cause.Reason
-wsj_1263	1-214	215-222	 an issue of style. I would view it	s a net positive. The company can	_	_	_	_	1>2	Expansion.Restatement.Specification	Expansion.Restatement.Specification
-wsj_1263	215-222	223-1	s a net positive. The company can	o about its business. They're in the 	_	_	_	_	1>2	Contingency.Cause.Reason	Contingency.Cause.Reason
-wsj_1263	223-1	232-241	o about its business. They're in the 	dst of a turnaround," she noted. Ear	_	_	_	_	1>2	Contingency.Cause.Reason	Contingency.Cause.Reason
-wsj_1263	288-297	275-287	eople coming and going." Reebok said Mr. La	hat grows as fast as Reebok did, it is going to have	_	_	_	_	1>2	Contingency.Condition.General	Contingency.Condition.General
-wsj_1263	351-365	1-376	nor Mr. LaBonte would be available for comment. "We will not be comment	 beyond the news release," the spokesman said. Mr	_	_	_	_	1>2	Expansion.Restatement.Generalization	Expansion.Restatement.Generalization
-wsj_1263	384-394	1-1	aberge Inc. 's Faberge U.S.A. division before joining Reebok in S	 1988, left in August to pursue 	_	_	_	_	1>2	Temporal.Asynchronous.Precedence	Temporal.Asynchronous.Precedence

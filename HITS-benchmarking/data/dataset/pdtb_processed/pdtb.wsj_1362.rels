@@ -1,2 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1362	1-30	107-133	 it is establishing to cover expected pollution cleanup costs at an Ohio plant reduced its third-quarter net income by $1.9 million. Detrex,	sent decree with Ohio to build a $1.4 million pollution-control facility at the Ashtabula chemical manufacturing plant by Aug. 1, 1990. Detrex said i	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

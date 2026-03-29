@@ -1,5 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0256	36-1	44-1	ng $515 million were submitted. Accepted 	ds ranged from 8.38% to 8.395%. Citicorp 	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0256	2-36	58-84	ge interest rate rose to 8.3875% at Citicorp's $50 million weekly auction of 91-day commercial paper, or corporate IOUs, from 8.337% at last week's sale. Bids to	age rate rose to 8.0087% at its $50 million auction of 182-day commercial paper from 7.962% at last week's sale. Bids totali	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0256	86-92	93-103	475 million were submitted. Accepted bids	anged from 8% to 8.019%. The bank hold	_	_	_	_	1>2	Expansion.List	Expansion.List
-wsj_0256	93-103	103-1	anged from 8% to 8.019%. The bank hold	g company will auction another $50 million in each maturity next Tuesday.	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

@@ -1,5 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0663	38-58	59-1	e six months ended Sept. 30 were up 4.5% to 229.03 billion yen from 219.27 billion yen. Sales wer	higher in all of the company's business categories, with the biggest growth coming in sales of foodstuffs such as margarine, coffee and frozen food, which rose 6.3%. Oils and 	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0663	71-88	1-97	ggest growth coming in sales of foodstuffs such as margarine, coffee and frozen food, which ros	 also did wel	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0663	1-108	109-123	 also did well, posting a 5.3% sales increase. Sales in th	category that includes pharmaceuticals, amino acids and chemicals rose 4.7%. Ajinomoto p	_	_	_	_	1>2	Expansion.List	Expansion.List
-wsj_0663	127-151	152-1	rrent fiscal year ending next March 31 of 480 billion yen, compared with 460.05 billion yen in fiscal 1989. It said it ex	-year net of 16 billion yen, compared with 15 billion yen in the latest year.	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

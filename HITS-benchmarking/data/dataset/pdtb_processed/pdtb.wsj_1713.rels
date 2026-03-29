@@ -1,8 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1713	12-39	39-51	't pay its fourth-quarter dividend, despite a 44% increase in third-quarter earnings, to $3.5 million, or 42 cents a share. Net inc	e included a gain of $708,000 on asset sales, the rea	_	_	_	_	1>2	Expansion.Restatement.Specification	Expansion.Restatement.Specification
-wsj_1713	59-74	75-87	rlier, Nationwide Health earned $2.4 million, or 29 cents a share. Revenue	ose 3% to $9 million from $8.8 million. Nationw	_	_	_	_	1>2	Expansion.List	Expansion.List
-wsj_1713	91-91	94-103	ough	e cash to cover the 25-cent-a-share dividend, its ban	_	_	_	_	1>2	Comparison.Concession.Expectation	Comparison.Concession.Expectation
-wsj_1713	91-91	1-122	ough	 hasn't met certain terms. Nationw	_	_	_	_	1>2	Contingency.Cause.Reason	Contingency.Cause.Reason
-wsj_1713	91-122	128-1	ough it has the cash to cover the 25-cent-a-share dividend, its banks have denied the company's request to pay it because the trust hasn't met certain terms. Nationw	umerous financing activities" under way to remedy the problem and will make up the dividend payment later if possible.	_	_	_	_	1>2	Comparison.Contrast.Juxtaposition	Comparison.Contrast.Juxtaposition
-wsj_1713	128-139	140-146	umerous financing activities" under way to remedy the problem and will	make up the dividend payment later if	_	_	_	_	1>2	Temporal.Asynchronous.Precedence	Temporal.Asynchronous.Precedence
-wsj_1713	140-147	1-1	make up the dividend payment later if possi		_	_	_	_	1>2	Contingency.Condition.Hypothetical	Contingency.Condition.Hypothetical

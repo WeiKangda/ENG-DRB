@@ -1,5 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_2084	1-35	46-64	 A., Italy's leading industrial group, is conducting "concrete" talks with West Germany's Daimler-Benz AG on a series of projects in the aerospace sector, Fiat of	early to disclose the nature of the proposed projects or indicate when the talks might be concluded. Daimler-B	_	_	_	_	1>2	Comparison.Contrast.Juxtaposition	Comparison.Contrast.Juxtaposition
-wsj_2084	1-115	94-101	 are no talks in progress regarding the automotive industry," a Fiat spoke	mments please us very much, there current	_	_	_	_	1>2	Comparison.Contrast.Juxtaposition	Comparison.Contrast.Juxtaposition
-wsj_2084	128-140	143-164	remost of cooperation in the truck sector, but "in the lon	I don't want to rule out that we can also come a bit closer in personal cars." Roberto Morell	_	_	_	_	1>2	Comparison.Contrast.Juxtaposition	Comparison.Contrast.Juxtaposition
-wsj_2084	128-140	154-1	remost of cooperation in the truck sector, but "in the lon	come a bit 	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

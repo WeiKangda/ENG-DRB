@@ -1,3 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1170	51-73	75-87	the three months ended Sept. 9 was $7.1 million, compared with $23 million a year earlier. But it sa	rlier results included gains of $23.5 million from divestitures. Sales ros	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast
-wsj_1170	102-106	1-1	nths, the company s	 5.5% to $9.81 billion from $9.3 billion.	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

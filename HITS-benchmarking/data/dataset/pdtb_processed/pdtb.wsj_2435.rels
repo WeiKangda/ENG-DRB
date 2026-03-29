@@ -1,3 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_2435	34-50	50-63	ure's first fiscal year, Siemens will hold 74.9% of the venture and a Mats	a subsidiary, Matsushita Electronic Components Co., 25.1%. A basic a	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_2435	1-120	120-127	 in the venture will rise to 35% Oct. 1, 1990, and to 50% the following Oct. 1. Siemens will ret	n majority voting rights. The parent compa	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast

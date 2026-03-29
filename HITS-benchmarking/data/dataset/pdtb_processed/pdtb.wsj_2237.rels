@@ -1,6 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_2237	2-19	20-33	has been critical of the Bush administration for not sending enough aid to Poland, so it i	ting ready to send its own version of a CARE package. Last mo	_	_	_	_	1>2	Contingency.Cause.Result	Contingency.Cause.Result
-wsj_2237	20-33	33-59	getting ready to send its own version of a CARE package. Last mo	h, the Senate voted to send a delegation of congressional staffers to Poland to assist its legislature, the Sejm, in democratic procedures. Senator	_	_	_	_	1>2	Expansion.Restatement.Specification	Expansion.Restatement.Specification
-wsj_2237	60-74	1-88	ete Domenici calls this effort "the first gift of democracy." The Po	 might do better to view it as a Trojan Horse. It is t	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast
-wsj_2237	1-88	1-122	 might do better to view it as a Trojan Horse. It is t	 vast shadow government of 15,000 congressional staffers that helps create such legislative atrocities as the 1,376 page, 13-pound reconciliation bill that claimed to be the budget of the United States. Maybe a	_	_	_	_	1>2	Contingency.Cause.Reason	Contingency.Cause.Reason
-wsj_2237	122-123	124-1	er th	ers explain their work to the Poles, they'd 	_	_	_	_	1>2	Temporal.Asynchronous.Succession	Temporal.Asynchronous.Succession

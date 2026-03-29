@@ -1,4 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0541	87-96	81-87	a will issue about 3.6 million shares; last Monday	is converted to common, Automatic D	_	_	_	_	1>2	Contingency.Condition.Hypothetical	Contingency.Condition.Hypothetical
-wsj_0541	80-96	98-108	bt is converted to common, Automatic Data will issue about 3.6 million shares; last Monday	the company had nearly 73 million shares outstanding. Automatic D	_	_	_	_	1>2	Comparison.Contrast.Juxtaposition	Comparison.Contrast.Juxtaposition
-wsj_0541	109-115	116-135	is redeeming the bonds because the af	ost of the interest on the bonds is higher than the dividend yield on the common, a spokesman s	_	_	_	_	1>2	Contingency.Cause.Reason	Contingency.Cause.Reason

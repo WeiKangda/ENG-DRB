@@ -1,6 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_2352	50-79	79-107	ntal rule of contract law applied to both cases was that courts will not enforce agreements to which the parties did not intend to be bound. In the Pe	zoil/Texaco litigation, the courts found Pennzoil and Getty Oil intended to be bound; in Arcadian Phosphates they found there was no intention to be bound. Admittedl	_	_	_	_	1>2	Expansion.Restatement.Specification	Expansion.Restatement.Specification
-wsj_2352	79-95	1-107	zoil/Texaco litigation, the courts found Pennzoil and Getty Oil intended to be bound; in Arcadi	 Phosphates they found there was no intention to be bound. Admittedl	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast
-wsj_2352	109-120	121-134	he principle in the cases is the same. But the out	f a legal dispute almost always turns on the facts. And the fac	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast
-wsj_2352	120-134	1-152	me of a legal dispute almost always turns on the facts. And the fac	 found by the various courts in these two lawsuits, were different. When you su	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_2352	158-170	153-157	ealm of reporting and enter the orbit of speculation. Charles F. Vi	erwise, you leave the	_	_	_	_	1>2	Contingency.Condition.General	Contingency.Condition.General

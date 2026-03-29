@@ -1,5 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1719	1-92	77-83	 all omitted dividends, which ran	ed stock is cumulative, Amdura sa	_	_	_	_	1>2	Contingency.Cause.Reason	Contingency.Cause.Reason
-wsj_1719	51-70	1-92	t the next quarterly dividends on its Series A, B, C and D preferred shares, which are	 all omitted dividends, which ran	_	_	_	_	1>2	Comparison.Contrast.Juxtaposition	Comparison.Contrast.Juxtaposition
-wsj_1719	1-92	103-1	 all omitted dividends, which ran	ion requirements have been met. Amdura's 	_	_	_	_	1>2	Temporal.Asynchronous.Succession	Temporal.Asynchronous.Succession
-wsj_1719	1-1	164-169	 new management, which took 	ell two units. Proceeds fr	_	_	_	_	1>2	Temporal.Synchrony	Temporal.Synchrony

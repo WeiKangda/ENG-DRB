@@ -1,7 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1048	2-13	17-30	lular Communications Inc. must extend its offer for LIN Broadcasting Corp. because	ot yet announced committed financing sufficient to complete" the bid, LIN sai	_	_	_	_	1>2	Contingency.Cause.Reason	Contingency.Cause.Reason
-wsj_1048	36-72	75-83	o Securities and Exchange Commission rules, McCaw is required to keep its offer for the cellular-phone and broadcasting concern open for at least five business days after the announcement of the financing, LIN said.	er is scheduled to expire tomorrow. Last week	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1048	90-110	110-125	firm" financing commitments from three major banks in regard to its bid to control LIN Broadcasting. The banks j	ntly committed $1.2 billion of financing, subject to certain conditions, McCaw said.	_	_	_	_	1>2	Expansion.Restatement.Specification	Expansion.Restatement.Specification
-wsj_1048	1-144	1-1	 "moving forward with our financing." He added tha	 LIN will conduct a fair auction." McCaw wants 	_	_	_	_	1>2	Contingency.Cause.Result	Contingency.Cause.Result
-wsj_1048	158-176	190-194	y 22 million shares of LIN for $125 each, or $2.75 billion, which would res	imbo, however, becaus	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast
-wsj_1048	190-196	1-209	imbo, however, because LIN has	 merge its cellular-phone businesses with BellSouth Corp. In national ove	_	_	_	_	1>2	Contingency.Cause.Reason	Contingency.Cause.Reason

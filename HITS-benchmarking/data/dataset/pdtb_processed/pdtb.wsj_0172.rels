@@ -1,3 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0172	102-117	122-134	nate the 13 management positions of the former Midwest Financial parent company. First of Am	anagers will take other jobs with First of America. But it said	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast
-wsj_0172	117-134	136-1	ica said some of the managers will take other jobs with First of America. But it said	severance payments to those executives not staying with the company will reduce First of America's operating results for 1989 by $3 million to $4 million, or 15 cents to 20 cents a share.	_	_	_	_	1>2	Comparison.Contrast.Juxtaposition	Comparison.Contrast.Juxtaposition

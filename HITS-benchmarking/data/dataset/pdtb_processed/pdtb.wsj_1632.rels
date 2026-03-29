@@ -1,4 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1632	3-1	31-44	sed to read your recent news stories on the banking industry's reserve additions and concomitant threats to cease making new loans to less-developed countries. If the 	ole story were told, it would read something like this: -- Duri	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast
-wsj_1632	77-82	84-89	penditures of old loans before new	ere made. -- The re	_	_	_	_	1>2	Temporal.Asynchronous.Precedence	Temporal.Asynchronous.Precedence
-wsj_1632	190-201	202-226	aten not to make further loans, but in truth, lac	he capital to write off their mistakes or to build a navy, they have no alternative but to go along. George A. Wiegers	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast

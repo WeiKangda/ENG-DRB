@@ -1,5 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0760	74-85	85-1	ad a tax credit of $1.4 million. In the year	arlier quarter, the tax credit was $3.3 million. Sales rose 	_	_	_	_	1>2	Comparison.Contrast.Juxtaposition	Comparison.Contrast.Juxtaposition
-wsj_0760	74-1	1-110	ad a tax credit of $1.4 million. In the year-earlier quarter, the tax credit was $3.3 million. Sales rose 	 to $368.5 million from $340.7 million. Operating p	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0760	110-121	122-1	t in the company's abrasives segment rose 16% while operatin	t in the engineering materials segment rose 2%. However, the 	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0760	214-240	1-269	, Norton had net of $81.2 million, or $3.87 a share, and a tax credit of $4.4 million. In the year-earli	 period, the company had net of $77.2 million, or $3.68 a share, and a tax credit of $7.7 million. Norton had operat	_	_	_	_	1>2	Comparison.Contrast.Juxtaposition	Comparison.Contrast.Juxtaposition

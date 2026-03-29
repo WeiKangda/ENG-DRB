@@ -1,3 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1799	11-33	37-53	ted the sale of 2.85 million shares of common priced at $10 a share in an initial public offering. The com	s selling two million shares and that the rest are being sold by certain stockholders. Proceed	_	_	_	_	1>2	Expansion.Restatement.Specification	Expansion.Restatement.Specification
-wsj_1799	37-43	45-53	s selling two million shares and that	rest are being sold by certain stockholders. Proceed	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

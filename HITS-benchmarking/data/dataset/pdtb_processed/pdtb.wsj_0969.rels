@@ -1,3 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0969	70-76	77-88	d the strike in April after Pittston	d to sign the UMW's national labor pact. Pittston seek	_	_	_	_	1>2	Temporal.Asynchronous.Succession	Temporal.Asynchronous.Succession
-wsj_0969	77-88	89-102	refused to sign the UMW's national labor pact. Pittston seek	changes in health and pension benefits, among other things. No schedule f	_	_	_	_	1>2	Contingency.Cause.Reason	Contingency.Cause.Reason

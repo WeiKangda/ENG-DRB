@@ -1,4 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_2405	2-24	24-37	. Savoca, 66 years old, was named president and chief executive officer of the Atlantic Research Corp. subsidiary. Mr. Sav	a had been a consultant to the subsidiary's rocket-propulsion operations. Mr. Sav	_	_	_	_	1>2	Temporal.Asynchronous.Succession	Temporal.Asynchronous.Succession
-wsj_2405	51-53	54-58	es and repa	et engines. It also	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_2405	51-58	59-59	es and repairs jet engines. It also	as	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

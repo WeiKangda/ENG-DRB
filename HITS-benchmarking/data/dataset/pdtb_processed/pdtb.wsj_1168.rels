@@ -1,3 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1168	40-72	74-74	ached an agreement with a "major financial firm" to sell for $150 million its domestic equipment lease portfolio and that of its Wang Credit Corp. subsidiary. He said i	ee	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1168	178-200	201-1	estions after the annual meeting, Mr. Miller said the company is no longer looking for an equity investor. During the summ	, Wang executives had said they might seek outside investment.	_	_	_	_	1>2	Temporal.Asynchronous.Succession	Temporal.Asynchronous.Succession

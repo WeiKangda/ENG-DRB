@@ -1,6 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_2332	38-65	65-76	rose to $4.8 million, or 23 cents a share, from year-earlier net of $1.1 million, or five cents a share. Revenue s	red to $117 million from $81.5 million. Maxtor sa	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_2332	79-108	111-126	ere boosted by $2 million in payments received from a supplier, for a certain line of products that Maxtor isn't going to sell anymore. Maxtor said	discontinuing the line may have a positive effect on future earnings and revenue. A spokeswom	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_2332	1-133	134-149	 wouldn't elaborate, but the com	aid the discontinued product has never been a major source of revenue or profit. Operational	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast
-wsj_2332	111-126	136-149	discontinuing the line may have a positive effect on future earnings and revenue. A spokeswom	ued product has never been a major source of revenue or profit. Operational	_	_	_	_	1>2	Contingency.Cause.Reason	Contingency.Cause.Reason
-wsj_2332	172-203	205-1	st half, net was $7 million, or 34 cents a share, up from the year-earlier $3.1 million, or 15 cents a share. Revenue rose to	225.5 million from $161.8 million.	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

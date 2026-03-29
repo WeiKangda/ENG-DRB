@@ -1,4 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1443	49-1	70-91	ormone which directs the growth and function of white blood cells involved in the body's immune response. The IL-4 	ceptor on the surface of such cells receives the hormone's message to rally the body's defense. But in ce	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1443	109-113	115-127	mmune response so such cell	n't touch off harmful inflammatory reactions or cell destruction. A soluble f	_	_	_	_	1>2	Contingency.Cause.Result	Contingency.Cause.Result
-wsj_1443	185-205	1-1	ract with the spinoff to provide the research, development and initial testing of the new agents. Immunex will ha	 the option to buy back Receptech shares after five years.	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

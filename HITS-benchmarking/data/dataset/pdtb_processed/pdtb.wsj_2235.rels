@@ -1,5 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_2235	1-82	83-1	 top executives, Peter Guber and Jon Peters, from an exclusive agreement with Time Warner Inc. 's Warner Communications Inc. so they c	n Columbia Pictures Entertainment Inc. Sony two 	_	_	_	_	1>2	Contingency.Cause.Result	Contingency.Cause.Result
-wsj_2235	90-108	109-118	s ago agreed to acquire Columbia for $3.4 billion, or $27 a share. Warner sued	ony and Guber-Peters late last week; Sony and Gu	_	_	_	_	1>2	Temporal.Asynchronous.Precedence	Temporal.Asynchronous.Precedence
-wsj_2235	109-118	118-123	ony and Guber-Peters late last week; Sony and Gu	r-Peters have countersued, charging Wa	_	_	_	_	1>2	Temporal.Asynchronous.Precedence	Temporal.Asynchronous.Precedence
-wsj_2235	139-168	171-184	net income in the latest quarter compared with a net loss of $6.9 million, or 62 cents a share, in the year-earlier period. The company s	8%, to $10.9 million from $4.6 million, reflecting th	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

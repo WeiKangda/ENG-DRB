@@ -1,3 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_2246	31-40	53-67	gotiations to sell "certain facilities," which it	e extension to try to reach a definitive agreement on the sale. U.S. Bank	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_2246	1-129	130-130	 said "there can be no assurance" a sale agreement would be concluded. It also sai	th	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

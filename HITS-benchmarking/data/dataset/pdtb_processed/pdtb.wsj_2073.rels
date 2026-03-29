@@ -1,4 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_2073	48-83	83-107	ed Maryland Club Foods, which had sales of about $200 million last year, sells coffee under the Maryland Club and Butter-Nut brands to restaurants, hotels, offices and airlines. The acqui	tion "gives us additional production capacity for the food service coffee business and a stronger distribution network," a P&G sp	_	_	_	_	1>2	Contingency.Cause.Result	Contingency.Cause.Result
-wsj_2073	114-136	143-163	ells its Folgers ground roast coffee to food service concerns, but not to as many markets as Maryland Club. For example	now hasn't sold coffee to airlines and does only limited business with hotels and large restaurant chains. Maryland Cl	_	_	_	_	1>2	Expansion.Instantiation	Expansion.Instantiation
-wsj_2073	48-54	164-165	ed Maryland Club Foods, which had	lso distribut	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

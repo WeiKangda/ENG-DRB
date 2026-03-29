@@ -1,4 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1234	30-1	51-89	g will build the corporate-finance and investment-banking business of Gruntal, which has primarily been a retail-based firm. He was 	airman and co-chief executive officer of Ladenburg, Thalmann & Co. until July, when he was named co-chairman of the investment-banking firm along with Howard L. Blum Jr., who then became the sole chief executive. Yesterd	_	_	_	_	1>2	Temporal.Asynchronous.Succession	Temporal.Asynchronous.Succession
-wsj_1234	67-82	83-83	as named co-chairman of the investment-banking firm along with Howard L. Blum Jr., who th	bec	_	_	_	_	1>2	Temporal.Asynchronous.Precedence	Temporal.Asynchronous.Precedence
-wsj_1234	1-139	140-153	 surprised Mr. Koenig resigned, but his	ture was "nothing that we desired or worked for." Mr. Ko	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast

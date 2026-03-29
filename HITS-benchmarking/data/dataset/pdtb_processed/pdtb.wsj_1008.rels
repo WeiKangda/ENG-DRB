@@ -1,4 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1008	7-32	33-1	ed United Republic Reinsurance Co., a Houston property and casualty reinsurance company, from United Savings Association of Texas for $28 million. Lawrenc	surance also sold 	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1008	33-1	53-1	surance also sold 3.2 million of its shares for $7.125 each to its parent, Lawrence Group Inc. Lawrence 	surance, based in 	_	_	_	_	1>2	Temporal.Asynchronous.Precedence	Temporal.Asynchronous.Precedence
-wsj_1008	85-100	131-133	p increased its stake in Lawrence Insurance to 93.2% from 91.2%. Lawrence In	also owns Lawr	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

@@ -1,6 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1670	56-1	83-97	d-wide volume has grown 25% in a climate of relatively flat industry sales," said John 	ny's "prospects for a strong fourth quarter" are also good. M	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1670	98-127	127-129	ed the jump in quarter net to strong world-wide sales of its Barbie doll, Hot Wheels cars, Disney toys and other well-known toy lines. The company a	o cited ret	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1670	153-188	1-203	hs, Mattel net more than doubled to $58.9 million, or $1.19 a share, from $25.4 million, or 53 cents a share, a year ago. Revenue rose 25	 to $877.6 million, from $702.4 million. Mattel said the	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1670	207-235	236-251	of rights to land and buildings at its Hawthorne, Calif., headquarters resulted in a $13 million charge to third-quarter operating profit. The charge didn't	ffect net for the quarter as it was offset by tax benefits. Mattel has purcha	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast
-wsj_1670	236-245	246-251	ffect net for the quarter as it was offset b	x benefits. Mattel has purcha	_	_	_	_	1>2	Contingency.Cause.Reason	Contingency.Cause.Reason

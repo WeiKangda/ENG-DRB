@@ -1,2 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0476	115-127	127-146	re all rated single-A by Moody's Investors Service Inc. The under	iters expect a single-A-minus rating from Standard & Poor's Corp., which has the issue under review. Collatera	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

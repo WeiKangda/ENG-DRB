@@ -1,5 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0637	1-83	1-92	 shares will carry a floating annual dividend equal to 72% of the 30-day bankers' acceptance rate until Dec. 31, 1994. Thereafter,	 be renegotiated. Mr. Vaux sa	_	_	_	_	1>2	Temporal.Asynchronous.Precedence	Temporal.Asynchronous.Precedence
-wsj_0637	84-92	96-1	he rate will be renegotiated. Mr. Vaux sa	reement is reached, other buyers will be sought by bid or auction. The shares 	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast
-wsj_0637	96-96	97-101	reem	is reached, other buyer	_	_	_	_	1>2	Contingency.Condition.Hypothetical	Contingency.Condition.Hypothetical
-wsj_0637	1-1	1-164	 is part of a strategy to strengthen Labatt's balance sheet in anticipation of acquisitions to be made during the next 12 to 18 months. Labatt's has 	 takeover bids outstanding currently, he said. Lead	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast

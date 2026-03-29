@@ -1,2 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1025	39-74	75-93	k-based company reported a third-quarter net loss of $5.1 million, or 10 cents a share, compared with a year-earlier net loss of $6.2 million, or 12 cents a share. Operating	evenue surged 54% in the latest period to $42.9 million from $27.7 million. The compa	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

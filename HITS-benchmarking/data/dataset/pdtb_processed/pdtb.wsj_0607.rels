@@ -1,4 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0607	1-15	1-1	 issues begin trading on the New York Stock Exchange today, and one	 trading on the Nasdaq/National Market System last week. On the 	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0607	29-1	72-109	Board, Crawford & Co., Atlanta, (CFD) begins trading today. Crawford 	ding today on the Big Board are El Paso Refinery Limited Partnership, El Paso, Texas, (ELP) and Franklin Multi-Income Trust, San Mateo, Calif., (FMI). El Paso own	_	_	_	_	1>2	Expansion.List	Expansion.List
-wsj_0607	110-117	1-126	and operates a petroleum refinery. Franklin is	 closed-end management investment company. On the Nasd	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

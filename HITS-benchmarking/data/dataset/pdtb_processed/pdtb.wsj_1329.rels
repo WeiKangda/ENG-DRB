@@ -1,4 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1329	69-1	78-88	est was "not unusual" and Emerson 	ake a "full and prompt" response, according to	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1329	69-93	110-124	est was "not unusual" and Emerson will make a "full and prompt" response, according to a spokesman. Spokesmen fo	icipate "any problems" with the completion of the transaction. An FTC spoke	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1329	200-216	1-1	son and Stuttgart-based Bosch make electrical and electronic products, including power tools. The Vermont Americ	 acquisition is designed to enhance their position in the accessories portion of the power-tool industry.	_	_	_	_	1>2	Contingency.Cause.Result	Contingency.Cause.Result

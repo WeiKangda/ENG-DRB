@@ -1,3 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0272	1-1	71-72	 based in Wildbad, West Germany, and also 	s o	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0272	1-21	155-182	 said it acquired Laboratorium Prof. Dr. Berthold, a German maker of scientific instruments. Terms w	ld most of its Mason Research Institute subsidiary to Transgenic Sciences Inc., a closely held biotechnology company based in Worcester, Mass. The sale, for	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

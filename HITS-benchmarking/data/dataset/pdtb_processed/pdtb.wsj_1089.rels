@@ -1,2 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1089	3-31	1-1	hompson, a 47-year-old attorney in private practice in Washington and Nashville, Tenn., was elected to the board of this engineering and construction company. The boa	 increased to 11 seats.	_	_	_	_	1>2	Contingency.Cause.Result	Contingency.Cause.Result

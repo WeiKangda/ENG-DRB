@@ -1,5 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1029	31-59	1-78	tate investment trust said the "purported class action suit," seeks "damages and other remedies under federal securities law and state law." Gerald E	 wouldn't disclose further details. He declin	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast
-wsj_1029	60-78	1-99	ilson, corporate secretary and legal counsel, said the company wouldn't disclose further details. He declin	 to name the shareholder, the plaintiff's lawyer or the court where the lawsuit was filed. Bay, whic	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1029	100-101	1-152	s s	 bankruptcy-court protection from creditor lawsuits if it can't renegotiate its borrowings. In New York	_	_	_	_	1>2	Contingency.Cause.Result	Contingency.Cause.Result
-wsj_1029	1-1	146-152	 bankruptcy-court protection from creditor lawsuits if it can't 	gotiate its borrowings. In New York	_	_	_	_	1>2	Contingency.Condition.Hypothetical	Contingency.Condition.Hypothetical

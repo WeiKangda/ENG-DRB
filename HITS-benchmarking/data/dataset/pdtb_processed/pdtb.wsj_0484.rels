@@ -1,2 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0484	41-79	80-83	fast-food chain based in Louisville, Ky., is contending that Mr. Sugarman and two other company directors failed to disclose to the Securities and Exchange Commission that they intended to acquire a big Rally stake. Mr. Sugar	has in turn cont	_	_	_	_	1>2	Temporal.Asynchronous.Precedence	Temporal.Asynchronous.Precedence

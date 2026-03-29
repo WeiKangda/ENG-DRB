@@ -1,5 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0008	2-1	12-22	al government suspended sales of U.S. savings bonds because 	hasn't lifted the ceiling on government debt. Until C	_	_	_	_	1>2	Contingency.Cause.Reason	Contingency.Cause.Reason
-wsj_0008	26-41	23-26	ent hasn't any authority to issue new debt obligations of any kind, the Treas	ts, the gover	_	_	_	_	1>2	Contingency.Condition.General	Contingency.Condition.General
-wsj_0008	81-93	95-1	oted to raise the ceiling to $3.1 trillion, but the Senat	t expected to act until next week at the earliest. The Treasury 	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast
-wsj_0008	112-118	119-1	efault on Nov. 9 if Congress do	t act by then.	_	_	_	_	1>2	Contingency.Condition.Hypothetical	Contingency.Condition.Hypothetical

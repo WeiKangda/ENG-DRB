@@ -1,3 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1758	1-28	31-36	 interest By proceeding that way. But it all even	t's so easy to s	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast
-wsj_1758	62-76	77-1	d strict Cretaceous views on sex, And that is why you only see hi	uced in the museum. -- Laurence W. Thomas.	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

@@ -1,4 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_2399	224-229	253-257	eries 102, backed by Fre	ternoon surge. Among classes	_	_	_	_	1>2	Temporal.Asynchronous.Precedence	Temporal.Asynchronous.Precedence
-wsj_2399	432-447	448-1	securities pay the principal from the underlying Freddie Mac 8% securities, while the interes	ecurities pay only interest. Freddie Mac said 	_	_	_	_	1>2	Comparison.Contrast.Juxtaposition	Comparison.Contrast.Juxtaposition
-wsj_2399	458-488	489-503	securities were priced at 58 1/4 to yield 8.45%, assuming an average life of eight years and a prepayment of 160% of the PSA model. The interest-only	ecurities were priced at 35 1/2 to yield 10.72%. There were no maj	_	_	_	_	1>2	Comparison.Contrast.Juxtaposition	Comparison.Contrast.Juxtaposition

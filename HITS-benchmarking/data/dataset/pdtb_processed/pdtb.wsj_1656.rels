@@ -1,2 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1656	74-99	100-1	ned $66 million, or $1.19 a share, on revenue of $2.1 billion in the year-ago fourth quarter. For fiscal 19	, Ashland had net of $224 million, or $4.01 a share, on revenue of $7.8 billion. Both revenue 	_	_	_	_	1>2	Comparison.Contrast.Juxtaposition	Comparison.Contrast.Juxtaposition

@@ -1,3 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_2268	2-6	39-56	st Financial Corp., riding	ny earned $36 million, or 57 cents a share, in the year-ago quarter. Herbert	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast
-wsj_2268	58-1	1-1	Sandler, chairman and chief executive officer of the Oakland, Calif., savings-and-loan holding company, credited the high number of loans added to the company's portfolio over the last 12 months for broadening its earning asset base and improving profit performance. However, 	 noted that slackening demand for new mortgages depressed new loan originations to $1 billion, 30% below the same period last year. In savings 	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast

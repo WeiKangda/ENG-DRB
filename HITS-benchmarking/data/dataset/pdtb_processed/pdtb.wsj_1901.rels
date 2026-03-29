@@ -1,3 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1901	2-8	117-118	ean President Roh Tae Woo, brushin	said So	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1901	160-189	190-197	U.S. demand for the removal of South Korean import quotas on beef will be resolved "satisfactorily" but gave no hint when that will happen. Speaking to a	oint meeting of Congress earlier, he sa	_	_	_	_	1>2	Temporal.Asynchronous.Succession	Temporal.Asynchronous.Succession

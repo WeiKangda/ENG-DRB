@@ -1,4 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0967	1-91	95-108	 taxes to Massachusetts partly becau	cars at a dock in Baltimore and not in Massachusetts, didn't expl	_	_	_	_	1>2	Contingency.Cause.Reason	Contingency.Cause.Reason
-wsj_0967	1-1	170-173	 taxes, interest and penalties owed from 1966, when the state 	o agreed to p	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0967	1-210	210-1	 tax laws, corporations must pay 9.5% of estimated profits resulting from business transactions in the state if the company con	s a variety of non-sales activities, including warranties, customer complaints and relations with independent dealerships.	_	_	_	_	1>2	Contingency.Condition.General	Contingency.Condition.General

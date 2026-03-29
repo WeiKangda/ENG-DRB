@@ -1,3 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1452	28-45	47-55	s repeal was kind of a thoughtless action, as a matter of fact. . . . The	ave to revisit this issue, and they'	_	_	_	_	1>2	Contingency.Cause.Result	Contingency.Cause.Result
-wsj_1452	47-55	56-1	ave to revisit this issue, and they'	e to revisit it before long.	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

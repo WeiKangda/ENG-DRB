@@ -1,5 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1711	37-62	62-74	group profit after payments to minority interests rose to 252 million francs ($40.1 million) from 148 million a year earlier. Revenue r	e 40% to 13.32 billion francs from 9.53 billion. The group	_	_	_	_	1>2	Temporal.Synchrony	Temporal.Synchrony
-wsj_1711	78-102	105-1	on francs of the advance reflected a one-time gain from the June offering by its United Westburne unit in Canada. It didn't s	arlier results were influenced significantly by nonrecurring elements. For all of 	_	_	_	_	1>2	Comparison.Contrast.Juxtaposition	Comparison.Contrast.Juxtaposition
-wsj_1711	118-135	135-141	, Dumez had group profit of 452 million francs after payment to minority interests. Revenue was 2	98 billion francs. The group has	_	_	_	_	1>2	Temporal.Synchrony	Temporal.Synchrony
-wsj_1711	143-151	154-1	forecast full-year earnings for 1989, although it sai	lf results aren't a good indication because of one-time elements and the seasonal nature of its operations.	_	_	_	_	1>2	Comparison.Contrast.Juxtaposition	Comparison.Contrast.Juxtaposition

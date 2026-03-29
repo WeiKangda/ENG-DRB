@@ -1,3 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1186	61-72	77-1	cted to make an announcement early this morning. But Mr. H	ware of the nature of the talks under way between committee members and their advisers. Cineplex 	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast
-wsj_1186	94-112	114-117	ed on the New York Stock Exchange at $11.25 a share, up $1.125, before trad	alted. Analysts ha	_	_	_	_	1>2	Temporal.Asynchronous.Precedence	Temporal.Asynchronous.Precedence

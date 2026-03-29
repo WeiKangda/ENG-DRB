@@ -1,3 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1438	2-14	15-1	ny recently was listed on the New York Stock Exchange, and ano	ill join the Big Board from the over-the-counter market this week. Putnam 	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1438	1-151	162-183	 Tucson, Ariz., started trading under STSN. It operates vario	k Exchange, put and call options on the common stock of Aldus Corp. started trading. Aldus, Seattle, m	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

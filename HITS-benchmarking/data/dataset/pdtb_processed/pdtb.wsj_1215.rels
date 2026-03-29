@@ -1,8 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1215	9-21	1-45	as removed Thomas R. Waggoner as president and chief executive officer and that	 R. Wolf, formerly executive vice president, sales and marketing, has been named president and chief executive officer. Mr. Wag	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1215	60-66	70-85	ted all the directors. Later the	him, and two directors attempted to place the company under bankruptcy-law protection. A federal	_	_	_	_	1>2	Temporal.Asynchronous.Precedence	Temporal.Asynchronous.Precedence
-wsj_1215	67-1	74-85	said 	rs attempted to place the company under bankruptcy-law protection. A federal	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1215	74-85	86-95	ectors attempted to place the company under bankruptcy-law protection. A federal	udge turned down the Chapter 11 petition. The compa	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast
-wsj_1215	120-133	134-141	other members of the board declined to comment on the announcement. Mr. Waggone	couldn't be reached. The Staar b	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1215	1-119	1-144	 latest announcement said Mr. Waggoner will remain a director of Staar, a maker of products for small-incision surgery. Mr. Wolf an	 also said that	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1215	147-1	157-1	rd resigned as a director, and that Mr. 	as named a member of the board.	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

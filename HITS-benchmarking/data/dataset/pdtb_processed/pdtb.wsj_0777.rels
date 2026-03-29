@@ -1,3 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0777	47-1	77-1	e by the banks to take over Qintex Australia's management could threaten its ability to operate its national television network under Australian broadcast license rules. That, in 	rn, 	_	_	_	_	1>2	Temporal.Asynchronous.Precedence	Temporal.Asynchronous.Precedence
-wsj_0777	177-186	187-215	reed to buy MGM/UA Communications Co. But the transac	altered in September, when Qintex Australia was forced to increase its offer to US$1.5 billion following a counterbid from Rupert Murdoch; the deal fell a	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast

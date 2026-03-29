@@ -1,4 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1033	100-110	114-123	d it to respond by Oct. 31. The unit said	no assurance a transaction will occur. Esselte AB so	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast
-wsj_1033	2-34	172-211	B, the Stockholm office supplies company, as expected, proposed to acquire the 22% it doesn't own of its U.S. unit, Esselte Business Systems Inc. The pri	stems reported third-quarter net income fell 5.9% to $9.5 million, or 46 cents a share, from $10.1 million, or 49 cents a share, in the year-ago period. Sales rose 2.9% t	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1033	176-211	212-1	ncome fell 5.9% to $9.5 million, or 46 cents a share, from $10.1 million, or 49 cents a share, in the year-ago period. Sales rose 2.9% t	$329.2 million from $320 million.	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

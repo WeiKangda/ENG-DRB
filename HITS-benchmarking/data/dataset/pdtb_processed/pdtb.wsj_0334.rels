@@ -1,6 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0334	64-78	79-98	urpassed analysts' forecasts, which averaged around #200 million, and Marks &	er responded in trading on London's Stock Exchange with an eight pence rise to 188 pence. Profit afte	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0334	99-116	116-126	x and minority interest but before extraordinary items rose 12% to #135.2 million; per-share ear	ngs rose to five pence from 4.5 pence. Marks declare	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0334	1-158	159-174	 to #2.5 billion from #2.25 billion, while operating p	imbed 13% to #225.7 million from #199.8 million. Sales in North Am	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0334	174-194	194-203	a and the Far East were inflated by acquisitions, rising 62% to #278 million. Operating profit dr	ped 35%, however, to #3.8 mi	_	_	_	_	1>2	Comparison.Contrast.Opposition	Comparison.Contrast.Opposition
-wsj_0334	194-208	208-1	ped 35%, however, to #3.8 million. Brooks Brothers, wh	h Marks bought last year, saw operating profit drop in half to #5 million.	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

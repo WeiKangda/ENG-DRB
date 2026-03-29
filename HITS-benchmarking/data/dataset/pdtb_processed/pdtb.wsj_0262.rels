@@ -1,3 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0262	88-98	99-112	as declined requests to discuss the changes, but Mr. Wee	s said that Mr. Hollander wanted to have his own team. Scott Wakem	_	_	_	_	1>2	Comparison.Contrast.Juxtaposition	Comparison.Contrast.Juxtaposition
-wsj_0262	113-135	1-160	as named president and chief operating officer of U.S. operations, titles that had been held by Mr. Weekes. Mr. Wakeman w	 vice president of the instrument and controls division of closely held Omega Engineering Inc., another company controlled by Mr. Hollander. A company spo	_	_	_	_	1>2	Temporal.Asynchronous.Succession	Temporal.Asynchronous.Succession

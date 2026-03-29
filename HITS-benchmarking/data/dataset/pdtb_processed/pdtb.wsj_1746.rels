@@ -1,3 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1746	36-70	70-85	lding company posted net income of $54.4 million, or 87 cents a share, including $1.7 million, or three cents a share, in one-time tax benefits. A year ea	ier, net was $71.6 million, or $1.22 a share. First Fid	_	_	_	_	1>2	Comparison.Contrast.Juxtaposition	Comparison.Contrast.Juxtaposition
-wsj_1746	105-131	139-1	lted from the transfer to non-accrual status of $96 million "owed by two national borrowers and one local commercial real-estate customer," First Fide	ticipate any loss of principal on two of the loans, comprising 	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast

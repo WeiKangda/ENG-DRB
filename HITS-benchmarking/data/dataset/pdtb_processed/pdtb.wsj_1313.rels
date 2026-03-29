@@ -1,7 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1313	1-110	125-150	 to change his style, which some cr	oceed in a more logical way. I'm not going to do anything that is not acceptable in anyone's home. But that does	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast
-wsj_1313	124-135	136-150	o proceed in a more logical way. I'm not going	o do anything that is not acceptable in anyone's home. But that does	_	_	_	_	1>2	Expansion.List	Expansion.List
-wsj_1313	124-150	152-163	o proceed in a more logical way. I'm not going to do anything that is not acceptable in anyone's home. But that does	an I'm not going to get angry." Michael Eskr	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast
-wsj_1313	172-173	176-181	re w	tudio audience, viewers will no	_	_	_	_	1>2	Comparison.Concession.Expectation	Comparison.Concession.Expectation
-wsj_1313	221-233	239-245	ort's old show fits into our style," said Mr. Eskridg	sues." Mr. Downey's pre	_	_	_	_	1>2	Expansion.Restatement.Specification	Expansion.Restatement.Specification
-wsj_1313	1-270	271-1	 show, a one-hour shout fest, syndciated by MCA Inc. and produced by Quantum Media Inc., was canceled in July after advertisers an	ons abandoned it.	_	_	_	_	1>2	Temporal.Asynchronous.Succession	Temporal.Asynchronous.Succession

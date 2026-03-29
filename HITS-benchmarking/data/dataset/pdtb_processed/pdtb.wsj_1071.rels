@@ -1,6 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1071	79-102	1-110	s year's third quarter included gains on the sale of aircraft by the company's Aviation Leasing & Services Division. Revenue w	 flat at $1.3 billion. The lates	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1071	162-185	153-159	rity of the $57 million was linked to workers' compensation reserves and anticipated losses on the disposal of trucks. Many analys	break out the charge, analysts es	_	_	_	_	1>2	Comparison.Concession.Expectation	Comparison.Concession.Expectation
-wsj_1071	190-210	211-220	rprised that problems in many of Ryder's lines of business continued to plague the company. "It pretty mu	confirms what we had been expecting," said Anthony	_	_	_	_	1>2	Expansion.Restatement.Specification	Expansion.Restatement.Specification
-wsj_1071	281-294	296-304	the beginning stages of some of these changes." He said the four	will be "challenging," and maintained h	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1071	323-356	1-1	et income fell 79% to $31.1 million, or 33 cents a share, from $149.3 million, or $1.82 a share, a year earlier. Revenue rose slight	 to $3.8 billion from $3.7 billion.	_	_	_	_	1>2	Comparison.Contrast.Opposition	Comparison.Contrast.Opposition

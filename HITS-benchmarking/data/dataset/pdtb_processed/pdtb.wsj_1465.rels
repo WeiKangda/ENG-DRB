@@ -1,4 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1465	102-129	138-1	ded the Dorrance family a guarantee of at least $100 million, and as much as $120 million, to obtain the collection, people famili	r than usual financial interest in the property to be sold. The Dorrance 	_	_	_	_	1>2	Contingency.Cause.Result	Contingency.Cause.Result
-wsj_1465	152-156	1-1	te, auctioned off i	 auctioned last 	_	_	_	_	1>2	Expansion.Restatement.Specification	Expansion.Restatement.Specification
-wsj_1465	152-175	199-1	te, auctioned off in a series of sales held over four days, included porcelains, furniture and paintings. An Henri Matiss	ngs from the Dorrance collection remain to be sold at Sotheby's annual old masters paintings auction in January.	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

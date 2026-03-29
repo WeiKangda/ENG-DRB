@@ -1,4 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1476	25-37	1-46	l, John DeVillars, asked Clean Harbors for more information before rul	 permit for the site. Critics o	_	_	_	_	1>2	Temporal.Asynchronous.Precedence	Temporal.Asynchronous.Precedence
-wsj_1476	25-46	47-65	l, John DeVillars, asked Clean Harbors for more information before ruling on a permit for the site. Critics o	the plan, including the town of Braintree, say the incinerator is a health hazard. Clean Har	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1476	66-86	87-1	, based in Quincy, said it "will proceed expeditiously" to submit the data requested. Alan McKim,	hief executive officer of Clean Harbors said he was "very much encouraged" by the official's praise of Clean Harbors for the quality of some of the data in the report.	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

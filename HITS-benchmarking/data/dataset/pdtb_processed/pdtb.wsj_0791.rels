@@ -1,3 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0791	28-51	53-73	ss.-based Phoenix, a once-high-flying maker of software for personal computers, has had substantial losses in the past two quarters. Its stock	which was as high as $18.75 a share, has been trading under $4 a share recently. Yesterday	_	_	_	_	1>2	Contingency.Cause.Result	Contingency.Cause.Result
-wsj_0791	151-179	181-199	lled by Daniel L. Barnett and Paul A. Reese, both officers of Boston-based Oasis Capital Management Inc., a small Boston money management firm. Also involved i	roup is Robert F. Angelo, formerly Phoenix's senior vice president, field operations, who left Phoeni	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

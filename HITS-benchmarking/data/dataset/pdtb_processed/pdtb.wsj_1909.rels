@@ -1,3 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1909	1-1	31-61	star Financial Group reported a 12% increase in net income in the third quarter, led by 	et was $96.4 million, or 86 cents a primary share, compared with $85.8 million, or 79 cents a share, a year earlier. The Pro	_	_	_	_	1>2	Expansion.Restatement.Specification	Expansion.Restatement.Specification
-wsj_1909	1-30	96-96	star Financial Group reported a 12% increase in net income in the third quarter, led by a 43% gain in its financial services group. Fleet's	noted	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

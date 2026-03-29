@@ -1,6 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1221	32-64	64-1	s largest software company earned $9.6 million, or five cents a share, compared with $28 million, or 16 cents a share, a year earlier. Revenue r	e 5% to $282 million from $268.3 million. The drop 	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1221	91-96	97-100	ts were reported after the ma	osed. Computer As	_	_	_	_	1>2	Temporal.Asynchronous.Succession	Temporal.Asynchronous.Succession
-wsj_1221	123-146	1-155	resident, attributed the drop to the disruption of the company's business resulting from the prolonged process of acquiring Cullinet. The acquisiti	 was completed in September. In August, th	_	_	_	_	1>2	Temporal.Asynchronous.Precedence	Temporal.Asynchronous.Precedence
-wsj_1221	156-168	169-183	mpany warned investors that the acquisition was being delayed, and many custom	re holding off on purchase decisions until the takeover was completed. The delays main	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1221	168-177	179-183	s were holding off on purchase decisions until the takeov	completed. The delays main	_	_	_	_	1>2	Temporal.Asynchronous.Precedence	Temporal.Asynchronous.Precedence

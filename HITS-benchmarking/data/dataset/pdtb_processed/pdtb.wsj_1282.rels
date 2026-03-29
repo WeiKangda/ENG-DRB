@@ -1,3 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1282	80-88	90-99	t was forced to start bankruptcy-law proceedings because Jerell	thholding her royalty payments last month. Jerell paid M	_	_	_	_	1>2	Contingency.Cause.Reason	Contingency.Cause.Reason
-wsj_1282	100-1	123-152	arratt royalties for the line known as Multiples by Sandra Garratt, which are sold 	the Dallas apparel maker earlier this year, charging that Jerell developed and marketed clothing lines fashioned after her designs, in violation of their contract. That lawsuit is	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast

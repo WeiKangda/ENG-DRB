@@ -1,5 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1907	49-62	1-48	declined to disclose details and asked Mesa to do the same. But Farmi	 offer, StatesWes	_	_	_	_	1>2	Temporal.Asynchronous.Succession	Temporal.Asynchronous.Succession
-wsj_1907	44-62	1-1	e the offer, StatesWest declined to disclose details and asked Mesa to do the same. But Farmi	 N.M.-based Mesa said the offer was for $7 in cash and unspecified StatesWest securities valued at $3 a share. Based on 	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast
-wsj_1907	62-1	88-113	ton, N.M.-based Mesa said the offer was for $7 in cash and unspecified StatesWest securities valued at $3 a share. Based on 	e number of Mesa shares outstanding not already owned by StatesWest, the proposed takeover would have a value of about $15.3 million. StatesWes	_	_	_	_	1>2	Contingency.Cause.Result	Contingency.Cause.Result
-wsj_1907	123-137	138-144	sa rejected a general proposal from StatesWest that the two carriers combine. In response	o the specific offer, Gary Risley	_	_	_	_	1>2	Comparison.Contrast.Juxtaposition	Comparison.Contrast.Juxtaposition

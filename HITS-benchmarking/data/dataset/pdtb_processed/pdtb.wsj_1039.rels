@@ -1,3 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1039	37-68	68-1	fell 37% to $32.9 million, or 30 cents a share, from $52.2 million, or 48 cents a share, in the year-ago period. Revenue r	e 15% to $534.3 million from $464.7 million. Amdahl's 	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast
-wsj_1039	82-90	102-119	lts were somewhat worse than expected. Jay Stevens	he Sunnyvale, Calif., company to earn 35 cents a share for the quarter and said the	_	_	_	_	1>2	Expansion.Instantiation	Expansion.Instantiation

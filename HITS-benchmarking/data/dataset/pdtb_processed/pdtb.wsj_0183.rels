@@ -1,3 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0183	1-112	112-1	 said final Commerce Department and ITC rulings won't come until next March or later. If both age	ies find violations of the U.S. trade law, the U.S. would assess penalty duties on the imports, which already are subject to import quotas under bilateral textile and apparel trade agreements. Imports of 	_	_	_	_	1>2	Temporal.Asynchronous.Precedence	Temporal.Asynchronous.Precedence
-wsj_0183	123-132	1-123	d assess penalty duties on the imports, which alrea	 find violations of the U.S. trade law, the U.S. wo	_	_	_	_	1>2	Contingency.Condition.Hypothetical	Contingency.Condition.Hypothetical

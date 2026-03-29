@@ -1,5 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0299	1-21	21-39	 $350 million of securities backed by credit-card receivables. The off	ing was priced with an 8.95% coupon rate at 99.1875% to yield 9.19%. The ret	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0299	66-73	73-76	interest only for 115 months, with pr	cipal payments beginning thereaft	_	_	_	_	1>2	Temporal.Asynchronous.Precedence	Temporal.Asynchronous.Precedence
-wsj_0299	108-130	130-132	f the transaction, J.C. Penney will sell a portion of its credit-card receivables to its JCP Receivables Inc. unit, which w	l then tra	_	_	_	_	1>2	Temporal.Asynchronous.Precedence	Temporal.Asynchronous.Precedence
-wsj_0299	108-140	1-1	f the transaction, J.C. Penney will sell a portion of its credit-card receivables to its JCP Receivables Inc. unit, which will then transfer them to a master trust. The tru	 will issue the certificates. Credit 	_	_	_	_	1>2	Temporal.Asynchronous.Precedence	Temporal.Asynchronous.Precedence

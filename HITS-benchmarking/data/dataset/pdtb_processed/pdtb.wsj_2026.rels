@@ -1,7 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_2026	65-67	89-91	ich plans t	o cited the	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_2026	98-105	105-1	value of overseas profit when it is tra	d into dollars. In addition, 	_	_	_	_	1>2	Contingency.Condition.General	Contingency.Condition.General
-wsj_2026	65-67	120-130	ich plans t	gher than previous-year costs for raw materials, though those co	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_2026	113-114	132-139	company sai	declined since the second quarter. Incrementally h	_	_	_	_	1>2	Comparison.Contrast.Juxtaposition	Comparison.Contrast.Juxtaposition
-wsj_2026	113-114	139-1	company sai	her production of those chemicals which remain in heavy demand also has forced 	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_2026	164-202	203-217	, Rohm & Haas net totaled $155 million, or $2.33 a share, down 17% from $187.8 million, or $2.82 a share, a year ago. Sales rose 5.2% t	$2.04 billion from $1.94 billion the previous year. In New York Stock	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

@@ -1,6 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0697	2-1	38-50	sition Partners, a hostile suitor for Dataproducts Corp., filed a petition in federal district court in Los Angeles seeking to have its standstill agreement with the computer printer maker declared void, and it 	ded with a $10-a-share tender offer for the company. The off	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0697	97-107	1-1	ave a final copy of the filing. Jack Davis,	 seen the filing and couldn't comment. DPC made a 	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0697	129-1	149-160	a-share bid for the company in May, but Dataproducts management considered the $283.7 million proposal unacceptable. Dataproducts 	d sought a buyer for several months, but it is now	_	_	_	_	1>2	Temporal.Asynchronous.Succession	Temporal.Asynchronous.Succession
-wsj_0697	149-160	162-1	d sought a buyer for several months, but it is now	e midst of a restructuring plan and management says the company is no longer for sale.	_	_	_	_	1>2	Comparison.Contrast.Juxtaposition	Comparison.Contrast.Juxtaposition
-wsj_0697	161-169	174-1	n the midst of a restructuring plan and management	no longer for sale.	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

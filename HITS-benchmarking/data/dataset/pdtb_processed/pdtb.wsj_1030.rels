@@ -1,2 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1030	3-17	61-91	Tucker was named a director of this insurance and financial services concern. Mr. Tuc	el E. Upchurch Jr., 37, vice president and general counsel, was selected to serve the remainder of the term vacated by John S.P. Samford, who res	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

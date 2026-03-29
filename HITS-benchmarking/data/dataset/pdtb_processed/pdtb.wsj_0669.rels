@@ -1,5 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0669	74-81	83-1	cipated earnings increase is fairly modest because Niss	nding heavily to bolster its dealership network in Japan and because of currency-exchange fluctuations. During the 	_	_	_	_	1>2	Contingency.Cause.Reason	Contingency.Cause.Reason
-wsj_0669	1-105	129-130	 decade, Mr. Kume said	Kume said	_	_	_	_	1>2	Comparison.Contrast.Juxtaposition	Comparison.Contrast.Juxtaposition
-wsj_0669	129-130	162-164	Kume said	ed, Nis	_	_	_	_	1>2	Comparison.Contrast.Juxtaposition	Comparison.Contrast.Juxtaposition
-wsj_0669	1-195	1-225	 1990s," he said, "we w	 a substantial increase in overseas manufacturing capacity, he acknowledged	_	_	_	_	1>2	Contingency.Cause.Result	Contingency.Cause.Result

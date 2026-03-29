@@ -1,2 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_2414	1-29	31-54	 is a weekly listing of unadited net asset values of publicly traded investment fund shares, reported by the companies as of Friday's close. Also sh	the closing listed market price or a dealer-to-dealer asked price of each fund's shares, with the percentage of difference. b-As of	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

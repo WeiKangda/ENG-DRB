@@ -1,4 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1152	2-21	21-65	s of the Rich and Famous" may be visiting some new venues in the near future. Judge R	ert ("Maximum Bob") Potter sentenced Jim Bakker to 45 years in the big house yesterday, while a Beverly Hills judge tucked away Zsa Zsa Gabor for three days, plus 120 hours of work with homeless women. Miss Ga	_	_	_	_	1>2	Contingency.Cause.Reason	Contingency.Cause.Reason
-wsj_1152	21-42	1-65	ert ("Maximum Bob") Potter sentenced Jim Bakker to 45 years in the big house yesterday, while a	 Hills judge tucked away Zsa Zsa Gabor for three days, plus 120 hours of work with homeless women. Miss Ga	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1152	65-75	75-1	r recanted her earlier-expressed fear of jailhouse lesbians. Mr. Bak	r said he was guilty of sin but not fraud. We can 	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

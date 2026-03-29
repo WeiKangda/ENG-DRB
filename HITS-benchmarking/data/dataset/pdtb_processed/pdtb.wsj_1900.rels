@@ -1,3 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1900	81-108	109-122	egulatory ruling calls for $42 million in added revenue yearly, compared with a $57 million boost proposed by the commission hearing officer. The company	ad sought increases totaling $80.3 million, or 22%. The decisio	_	_	_	_	1>2	Comparison.Contrast.Juxtaposition	Comparison.Contrast.Juxtaposition
-wsj_1900	123-1	129-130	s announced after trading 	Tucson Electr	_	_	_	_	1>2	Temporal.Asynchronous.Succession	Temporal.Asynchronous.Succession

@@ -1,5 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_2105	63-76	59-63	l own about 56% of the Berlitz common stock outstanding. Five millio	is completed, Macmillan w	_	_	_	_	1>2	Temporal.Asynchronous.Succession	Temporal.Asynchronous.Succession
-wsj_2105	77-87	88-102	shares will be offered in the U.S., and 3.4 mi	dditional shares will be offered in concurrent international offerings outside the U.S. Goldman, Sa	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_2105	1-124	128-1	 to pay quarterly dividends on the stock. The company s	ay the first dividend, of 12.5 cents a share, in the 1990 first quarter. Berlitz will 	_	_	_	_	1>2	Expansion.Instantiation	Expansion.Instantiation
-wsj_2105	204-1	213-231	lion cash dividend to Macmillan and to lend the 	nder of about $128 million to Maxwell Communications in connection with a promissory note. Proceeds from t	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

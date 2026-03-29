@@ -1,7 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0029	27-41	59-1	es show the strong interest of Japanese investors in U.S. mortgage-based instruments, Fannie Ma	0% of the funds were placed with Japanese institutional investors. The rest 	_	_	_	_	1>2	Expansion.Restatement.Specification	Expansion.Restatement.Specification
-wsj_0029	59-1	73-83	0% of the funds were placed with Japanese institutional investors. The rest 	nt to investors from France and Hong Kong. Earlier t	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0029	1-193	194-198	 securities can be retired early if interest ra	decline, and such prep	_	_	_	_	1>2	Contingency.Condition.General	Contingency.Condition.General
-wsj_0029	1-198	1-1	 securities can be retired early if interest rates decline, and such prep	 forces investors to redeploy their money at lower rates. Second, they 	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0029	256-279	1-290	oosted Japanese investment in mortgage-backed securities to more than 1% of the $900 billion in such instruments outstanding, and their purchas	 growing at a rapid rate. They also have be	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0029	256-290	290-291	oosted Japanese investment in mortgage-backed securities to more than 1% of the $900 billion in such instruments outstanding, and their purchases are growing at a rapid rate. They also have be	me l	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

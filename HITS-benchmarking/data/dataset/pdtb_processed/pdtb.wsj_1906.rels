@@ -1,7 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1906	1-40	42-59	 the finding, but one o	victims, Dorena Bertussi, denounced the ethics panel's action as "absurd." Acting m	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast
-wsj_1906	60-1	66-72	han a 	filed a complaint, the panel i	_	_	_	_	1>2	Temporal.Asynchronous.Succession	Temporal.Asynchronous.Succession
-wsj_1906	60-1	102-1	han a year after Ms. Bertussi filed a complaint, the panel issued a "letter of reproval" saying Rep. Bates had admitted conduct that violated a House rule forbidding discrimination against employees on account of their sex. It ordered 	p. Bates to write letters of apology to Ms. Bertussi and to a second complainant, Karen Dryden. Rep. Bates 	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1906	127-135	136-149	the letters as ordered. "I accept the	solution of the matter by the Ethics Committee," he said. The	_	_	_	_	1>2	Contingency.Cause.Reason	Contingency.Cause.Reason
-wsj_1906	102-1	152-153	p. Bates to write letters of apology to Ms. Bertussi and to a second complainant, Karen Dryden. Rep. Bates 	rned Rep.	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1906	158-174	181-197	violations "may result in a recommendation that disciplinary action be considered." But Ms. Bertus	t mind is going to file another complaint with the Ethics Committee?" Rep. Bates has	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast

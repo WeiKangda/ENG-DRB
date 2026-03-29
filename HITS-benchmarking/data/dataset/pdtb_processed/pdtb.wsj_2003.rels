@@ -1,5 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_2003	29-49	49-86	ier, the savings bank had earnings of $8.1 million, or 33 cents a share. For the n	e months, it had a loss of $58.3 million, or $2.44 a share, after earnings of $29.5 million, or $1.20 a share, in the 1988 period. Great Ame	_	_	_	_	1>2	Comparison.Contrast.Juxtaposition	Comparison.Contrast.Juxtaposition
-wsj_2003	90-98	1-104	its loan-loss reserves by $93 million after review	 loan portfolio, raising its	_	_	_	_	1>2	Temporal.Asynchronous.Succession	Temporal.Asynchronous.Succession
-wsj_2003	90-104	118-124	its loan-loss reserves by $93 million after reviewing its loan portfolio, raising its	an-loss addition, it said, it	_	_	_	_	1>2	Comparison.Contrast.Juxtaposition	Comparison.Contrast.Juxtaposition
-wsj_2003	164-193	196-206	the increased reserve, the savings bank took a special charge of $5 million representing general and administrative expenses from staff reductions and other matters, and it posted	6 million reduction in expected mortgage servicing fees, reflecting th	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

@@ -1,4 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1241	73-93	95-107	exports to the U.S. during the period fell 1.6% from a year ago to $15.06 billion, while impor	the U.S. soared 26% to $11.56 billion. The trade s	_	_	_	_	1>2	Comparison.Contrast.Opposition	Comparison.Contrast.Opposition
-wsj_1241	107-126	129-1	us with Europe was pegged at $414 million, down 57% from a year ago. Officials sai	ports to Europe dropped 5.3% to $3.02 billion while imports from there went up 17% to $2.61 billion.	_	_	_	_	1>2	Temporal.Synchrony	Temporal.Synchrony
-wsj_1241	129-1	142-1	ports to Europe dropped 5.3% to $3.02 billion while imports 	ere went up 17% to $2.61 billion.	_	_	_	_	1>2	Comparison.Contrast.Opposition	Comparison.Contrast.Opposition

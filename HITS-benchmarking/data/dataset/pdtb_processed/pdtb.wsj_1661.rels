@@ -1,7 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1661	12-18	1-28	rter earnings tumbled 43% and full	 earnings will trail last year's results. The con	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1661	32-62	62-85	er profit fell to $108 million, or $1.07 a share, from $190 million, or $1.87 a share, a year earlier. Sales dro	ed 6% to $2.58 billion from $2.74 billion, reflecting eight fewer business days in the latest quarter. The compa	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1661	1-165	168-181	 1989 capital spending plan of $950 million early this year, Caterpillar said full-year earnings would be flat compared with last year's $616 million, or $6.07 a share. But yesterday	company said this year's profit will be lower. It didn't say	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast
-wsj_1661	167-181	182-187	the company said this year's profit will be lower. It didn't say	y how much. Suffering fro	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast
-wsj_1661	167-181	203-205	the company said this year's profit will be lower. It didn't say	said it wil	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1661	239-1	1-1	months of the year, Caterpillar said 	 billion from $7.65 billion.	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

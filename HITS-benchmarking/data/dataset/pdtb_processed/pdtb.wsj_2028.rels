@@ -1,2 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_2028	2-22	22-43	. Wertheimer was named managing director and group head of investment banking in Asia, based in Tokyo. Mr. Wer	eimer, 38 years old, had been a first vice president in the industrial group in investment banking. He succ	_	_	_	_	1>2	Temporal.Asynchronous.Succession	Temporal.Asynchronous.Succession

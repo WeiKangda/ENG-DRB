@@ -1,4 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0702	1-55	57-84	 declined to estimate the value of the Norwegian holding. But Eugen	owak, an analyst at Dean Witter Reynolds Inc., forecast that the sale will bring in "$200 million or substantially more." The prop	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast
-wsj_0702	136-144	145-168	ticular importance to the proposed sale because it sug	t the company is willing to sell oil and gas assets that aren't part of its major strategic strengths. Unocal said i	_	_	_	_	1>2	Contingency.Cause.Reason	Contingency.Cause.Reason
-wsj_0702	225-255	256-1	d a 7.5% stake in the Veslefrikk field to Deutsche Erdolversorgungs G.m.b.H., a West German oil company, for an undisclosed amount. In 1987, it sold a	.5% stake in the Veslefrikk field to the Swedish national oil company, resulting in a $7 	_	_	_	_	1>2	Temporal.Asynchronous.Precedence	Temporal.Asynchronous.Precedence

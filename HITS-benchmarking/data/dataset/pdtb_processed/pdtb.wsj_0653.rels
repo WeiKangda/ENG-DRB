@@ -1,5 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0653	46-51	1-75	ree investors, who are d	 disclose their intentions to acquire a big Rally's stake. The group	_	_	_	_	1>2	Contingency.Cause.Reason	Contingency.Cause.Reason
-wsj_0653	150-175	175-195	rs, who have joined forces with company founder James Patterson, have ties to Wendy's, a competing hamburger chain. The Patterson g	up, which controls about 42% of Rally's shares, also may seek control. Rally's also sa	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0653	112-118	175-1	ontrol of Rally's. Mr. Sugarma	up, which controls 	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0653	7-33	199-1	suit in U.S. District Court in Delaware against a group led by Burt Sugarman, seeking to block the investors from buying more shares. Rally's	ee of three directors, who aren't associated with either the Patterson or Sugarman groups, to analyze the situation.	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

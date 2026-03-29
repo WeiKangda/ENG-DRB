@@ -1,2 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1808	31-65	66-79	roducer reported that net income fell to $102.1 million, or $1.09 a share, from $122.4 million, or $1.29 a share, in the year-earlier period. Sales ros	2.6% to $1.32 billion from $1.29 billion. In New Yo	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

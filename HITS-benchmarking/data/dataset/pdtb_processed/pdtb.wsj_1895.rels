@@ -1,4 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1895	28-1	37-59	as been doing an excellent job. They are 	lling people what roads are closed and just keeping the public informed has helped to keep the panic down," said Jam	_	_	_	_	1>2	Contingency.Cause.Reason	Contingency.Cause.Reason
-wsj_1895	37-45	45-59	lling people what roads are closed and just k	g the public informed has helped to keep the panic down," said Jam	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1895	75-92	92-115	on stations featured people holding up phone books, explaining where to call for help. Radio stati	s provided an emergency number for people who smelled gas but didn't know how to turn off their gas supply. Kim Schwart	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

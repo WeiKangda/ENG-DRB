@@ -1,6 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0302	2-19	28-31	any will repeal the unpopular turnover tax on securities transactions as of Jan. 1, 1991, Economi	ent will also repea	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0302	91-105	107-135	turnover tax has been long criticized by the West German financial community because it ten	ve securities trading and other banking activities out of Frankfurt into rival financial centers, especially London, where trading transactions isn't taxed. The tax has r	_	_	_	_	1>2	Contingency.Cause.Reason	Contingency.Cause.Reason
-wsj_0302	135-153	154-167	d less than one billion marks ($545.3 million) annually in recent years, but the governm	s been reluctant to abolish the levy for budgetary concerns. In the intervie	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast
-wsj_0302	180-185	185-190	ll lose after the tax di	s. The new date me	_	_	_	_	1>2	Temporal.Asynchronous.Succession	Temporal.Asynchronous.Succession
-wsj_0302	214-218	219-1	ition even if the curren	right coalition loses the elections in December 1990.	_	_	_	_	1>2	Contingency.Condition.Hypothetical	Contingency.Condition.Hypothetical

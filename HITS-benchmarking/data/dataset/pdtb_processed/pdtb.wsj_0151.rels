@@ -1,5 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0151	159-166	1-177	ly to benefit shareholders when "the compan	 a roll." He added, "Thi	_	_	_	_	1>2	Temporal.Synchrony	Temporal.Synchrony
-wsj_0151	159-177	180-189	ly to benefit shareholders when "the company is on a roll." He added, "Thi	to do with Marty Ackerman and it is not de	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0151	180-189	189-202	to do with Marty Ackerman and it is not de	d, particularly, to take the company private." But Mr. Ackerm	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0151	146-202	204-1	ned to specify what prompted the recent moves, saying they are meant only to benefit shareholders when "the company is on a roll." He added, "This has nothing to do with Marty Ackerman and it is not designed, particularly, to take the company private." But Mr. Ackerm	he buy-back, and the above-market price paid, prove that Mr. Edelman is running scared.	_	_	_	_	1>2	Comparison.Contrast.Juxtaposition	Comparison.Contrast.Juxtaposition

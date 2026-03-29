@@ -1,4 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_2261	30-35	36-61	't disclosed, but a J.P	stries spokesman said the amount J.P. Industries will get for the group is "a little better than expected by the marketplace, and the m	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast
-wsj_2261	41-61	61-75	J.P. Industries will get for the group is "a little better than expected by the marketplace, and the m	lace had been expecting $25 million to $30 million." The grou	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_2261	99-116	1-1	letes a previously announced program to divest itself of its hardware and plumbing supplies operations. The company	 remaining business is the manufacture and sale of engine and transmissions products for industrial and transportation applications.	_	_	_	_	1>2	Contingency.Cause.Result	Contingency.Cause.Result

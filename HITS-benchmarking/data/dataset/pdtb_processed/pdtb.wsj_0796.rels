@@ -1,3 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0796	2-28	28-1	Corp. received a $93.5 million contract by the U.S. Air Force for production tooling and test equipment for the Tacit Rainbow defense-suppression missile. The con	act provides additional equipment for Northrop, the prime contractor on the missile, and also supports a 1990 purchase of 90 missiles for follow-on flight tests.	_	_	_	_	1>2	Expansion.Restatement.Specification	Expansion.Restatement.Specification
-wsj_0796	28-43	44-44	act provides additional equipment for Northrop, the prime contractor on the missile, and als	sup	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

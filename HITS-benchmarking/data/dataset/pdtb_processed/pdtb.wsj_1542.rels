@@ -1,4 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1542	54-1	78-102	sted the recall of Quantum's mioxidil tablets, chlorazepate dipotassium tablets and meclofenamate sodium capsules because, it 	he production runs submitted for testing to gain FDA approval was in each case misrepresented as much larger than it actually was. American Ho	_	_	_	_	1>2	Contingency.Cause.Reason	Contingency.Cause.Reason
-wsj_1542	142-153	160-170	s with the products are known, the FDA said. A	ll available under other brand names. Last month, Ame	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1542	177-200	1-201	roduction and distribution of all 21 of Quantum's generic drug products pending the completion of an exhaustive internal audit. It also temporari	 c	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

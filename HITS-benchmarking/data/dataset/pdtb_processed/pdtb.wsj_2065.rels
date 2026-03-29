@@ -1,4 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_2065	30-1	1-1	erts was disciplined following the exchange's investigation of his trading in several commodities pits from July to November 1988. The Merc 	 withheld from the market certain orders in cooperation with another trader, David Stein. The Merc 	_	_	_	_	1>2	Expansion.Restatement.Specification	Expansion.Restatement.Specification
-wsj_2065	73-90	92-107	d Mr. Roberts $15,000 and suspended his trading membership for three years. Also, he an	ein were ordered to make restitution of $35,000 to a customer. Mr. Stein w	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_2065	135-141	146-151	he disciplinary settlement, neither man adm	d violations. Neither was amo	_	_	_	_	1>2	Expansion.Alternative.Disjunctive	Expansion.Alternative.Disjunctive

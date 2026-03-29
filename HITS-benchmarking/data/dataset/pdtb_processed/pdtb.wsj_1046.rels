@@ -1,3 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1046	90-106	108-129	line in failures continues a trend begun in late 1987, D&B said. The	rated in this year's third quarter, underscoring an overall lack of stress in the U.S. economy, the company s	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1046	1-150	150-173	 of nine regional areas fell more than 10% in the nine months. The South Atlan	c States were the only region to report an increase in bankruptcies, up 5.3% to 5,791 from 5,502. This occurred p	_	_	_	_	1>2	Comparison.Contrast.Juxtaposition	Comparison.Contrast.Juxtaposition

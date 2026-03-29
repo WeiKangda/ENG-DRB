@@ -1,3 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_2251	1-43	58-64	 Newspapers Inc. said improvements in advertising and subscription revenue led to a 21% gain in third-quarter profit to $8.8 million, or 31 cents a share, from $7.2 million, or 25 cents a share. Sales r	nto, Calif., company also attri	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_2251	81-1	118-131	months, the newspaper chain had almost a 23% increase in profit to $23.6 million, or 83 cents a share, from $19.2 million, or 68 cents a share. Sales grew 	most 7% to $279.1 million from $261.3 million. McClatchy p	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

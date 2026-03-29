@@ -1,6 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1042	23-41	1-50	, Avon, based in Santa Monica, Calif., has 3.3 million common shares outstanding. About 1	 million Class C warrants were issued, the com	_	_	_	_	1>2	Contingency.Cause.Result	Contingency.Cause.Result
-wsj_1042	1-54	55-75	 million Class C warrants were issued, the company said. Each of	he Class C warrants will enable the holders to purchase one share of common stock at $5.50. The war	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1042	55-75	75-88	he Class C warrants will enable the holders to purchase one share of common stock at $5.50. The war	nts may be exercised until 90 days after their issue date. Avon al	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1042	8-22	92-114	ed a dividend of one warrant for each three shares of common stock. Current	ssue an additional 243,677 of the Class C warrants to holders of its Class A, Class B and unclassified warrants. Issuanc	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_1042	92-114	115-1	ssue an additional 243,677 of the Class C warrants to holders of its Class A, Class B and unclassified warrants. Issuanc	of those warrants will be at the rate of one-third warrant for each warrant exercised.	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

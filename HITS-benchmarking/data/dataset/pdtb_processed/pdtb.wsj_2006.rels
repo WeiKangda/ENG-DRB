@@ -1,3 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_2006	57-77	78-1	s employment contract calls for him to act as a consultant to the company for two years. He will als	remain 	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_2006	50-96	117-124	t, US Facilities said Mr. Percival's employment contract calls for him to act as a consultant to the company for two years. He will also remain a director, US Facilities said, but won't serve on any board committees. Mr. Perciva	ment, US Facilities also said it had	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

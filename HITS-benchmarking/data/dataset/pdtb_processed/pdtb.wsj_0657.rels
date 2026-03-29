@@ -1,6 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0657	70-1	86-96	spite the adverse effect of Japan's unpopular consumption tax, introduced in April. Increasing 	rsonal spending and capital investment are fueling growth, the company	_	_	_	_	1>2	Contingency.Cause.Reason	Contingency.Cause.Reason
-wsj_0657	86-96	1-103	rsonal spending and capital investment are fueling growth, the company	 sales also contrib	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0657	113-1	1-1	ned 20% to 122.36 billion yen from 102.01 billion yen. Exports made 	 46.2% of the latest year's total, up from 39.8% a year ago. Camera sales 	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0657	162-1	181-1	s for the year ending March 31 will rise 9.6% to 240 billion yen. Pretax profit is 	pected to increase 18% to 22 billion yen and net income is expected to rise 53% to 10.5 billion yen.	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction
-wsj_0657	181-1	194-1	pected to increase 18% to 22 billion yen and net income is 	ted to rise 53% to 10.5 billion yen.	_	_	_	_	1>2	Expansion.List	Expansion.List

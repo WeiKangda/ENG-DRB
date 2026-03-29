@@ -1,3 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_1736	79-100	100-111	the two issues can convert their stock into common shares through the close of business Dec. 1. Each $1 c	ulative share can be converted into 4.92 common shares; the ratio	_	_	_	_	1>2	Expansion.Restatement.Specification	Expansion.Restatement.Specification
-wsj_1736	100-111	112-129	ulative share can be converted into 4.92 common shares; the ratio	n the $3 cumulative is eight common shares for each $3 cumulative preferred. Philips d	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

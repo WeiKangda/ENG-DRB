@@ -1,2 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0232	90-104	105-1	inked the gain essentially to higher prices for beef and pork. He said sum	t problems that had hit several southern agricultural regions had stopped being a major source of price pressure in September.	_	_	_	_	1>2	Contingency.Cause.Reason	Contingency.Cause.Reason

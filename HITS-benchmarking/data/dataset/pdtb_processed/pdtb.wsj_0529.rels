@@ -1,7 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0529	69-1	1-108	ation of the market in 1985, producers have become much more intensely involved in both transportation and marketing," Mr. Maier 	 of being close to those suppliers; many of tho	_	_	_	_	1>2	Contingency.Cause.Result	Contingency.Cause.Result
-wsj_0529	1-108	1-121	 of being close to those suppliers; many of tho	 companies don't know us as well as they should." TransCanad	_	_	_	_	1>2	Comparison.Contrast.Juxtaposition	Comparison.Contrast.Juxtaposition
-wsj_0529	122-132	133-153	nsports all gas that moves eastward from Alberta. That includes	ll the gas consumed in Ontario and Quebec, along with the bulk of Canadian gas exports to the Walter Litvinc	_	_	_	_	1>2	Expansion.Restatement.Specification	Expansion.Restatement.Specification
-wsj_0529	181-194	201-1	token presence here should enhance communications and business relationships," Mr. Litvinchuk s	ransporting gas is so important to producers' ability to sell it, it helps to have input and access to transportation companies." The move, which 	_	_	_	_	1>2	Contingency.Cause.Reason	Contingency.Cause.Reason
-wsj_0529	218-1	201-1	put and access to transportation companies." The move, which 	rting gas is so important to producers' ability to sell it, it helps to have 	_	_	_	_	1>2	Contingency.Cause.Reason	Contingency.Cause.Reason
-wsj_0529	1-232	1-278	 cost Tr	 employees will be offered positions in Calgary, the company said. T	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

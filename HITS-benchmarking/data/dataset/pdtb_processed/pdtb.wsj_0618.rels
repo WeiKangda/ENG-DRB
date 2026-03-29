@@ -1,7 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0618	16-20	21-33	say no" when au	rs pressure them to stockpile cars on their lots. In an o	_	_	_	_	1>2	Contingency.Condition.General	Contingency.Condition.General
-wsj_0618	80-87	88-95	feuding with the Big Three since he too	e earlier this year, said that w	_	_	_	_	1>2	Temporal.Asynchronous.Succession	Temporal.Asynchronous.Succession
-wsj_0618	119-1	152-170	s had an average of 59 days' supply of cars in their lots at the end of September, according to 	slash stocks to between 15 and 30 days to reduce the costs of financing inventory. His message i	_	_	_	_	1>2	Comparison.Contrast.Juxtaposition	Comparison.Contrast.Juxtaposition
-wsj_0618	228-236	236-273	s unworkable. It "is going to s	nd neat to the dealer except when his 15-day car supply doesn't include the bright red one that the lady wants to buy and she goes up the street to buy one," a Chrysler spoke	_	_	_	_	1>2	Contingency.Cause.Reason	Contingency.Cause.Reason
-wsj_0618	236-244	246-273	nd neat to the dealer except when his 15	ly doesn't include the bright red one that the lady wants to buy and she goes up the street to buy one," a Chrysler spoke	_	_	_	_	1>2	Expansion.Alternative.Disjunctive	Expansion.Alternative.Disjunctive
-wsj_0618	1-264	265-273	 supply doesn't include the bright red one that the lady wants to buy and she goes up th	eet to buy one," a Chrysler spoke	_	_	_	_	1>2	Expansion.Conjunction	Expansion.Conjunction

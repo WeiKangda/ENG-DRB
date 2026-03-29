@@ -1,3 +1,0 @@
-doc_id	unit1_toks	unit2_toks	unit1_txt	unit2_txt	s1_toks	s2_toks	unit1_sent	unit2_sent	dir	orig_label	sense
-wsj_0642	45-64	65-97	s directors were Mr. Hollander, Frederick Ezekiel, Frederick Ross, Arthur B. Crozier and Rose Pothier. Removed	rom office were George Pratt, Robert E. Davis, Norman Gray, John Virtue, corporate secretary, and Barrett B. Weekes, chairman, president and chief executive officer. Newport	_	_	_	_	1>2	Comparison.Contrast.Juxtaposition	Comparison.Contrast.Juxtaposition
-wsj_0642	98-113	115-1	fficials didn't respond Friday to requests to discuss the changes at the company but earl	Mr. Weekes had said Mr. Hollander wanted to have his own team on the board.	_	_	_	_	1>2	Comparison.Contrast	Comparison.Contrast
